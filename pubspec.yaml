@@ -1,4 +1,4 @@
-name: rive
+name: rive_custom
 version: 0.13.20
 homepage: https://rive.app
 description: Rive Flutter Runtime. This package provides runtime functionality for playing back and interacting with animations built with the Rive editor available at https://rive.app.
