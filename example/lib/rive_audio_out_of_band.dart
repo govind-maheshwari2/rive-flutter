@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 
 class RiveAudioOutOfBandExample extends StatefulWidget {
   const RiveAudioOutOfBandExample({super.key});

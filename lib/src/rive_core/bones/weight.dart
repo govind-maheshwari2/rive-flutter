@@ -1,9 +1,9 @@
 import 'dart:typed_data';
 
-import 'package:rive/src/generated/bones/weight_base.dart';
+import 'package:rive_custom/src/generated/bones/weight_base.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/bones/weight_base.dart';
+export 'package:rive_custom/src/generated/bones/weight_base.dart';
 
 class Weight extends WeightBase {
   final Vec2D translation = Vec2D();

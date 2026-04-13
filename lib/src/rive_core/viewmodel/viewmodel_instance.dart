@@ -1,10 +1,10 @@
 import 'package:collection/collection.dart';
-import 'package:rive/src/generated/viewmodel/viewmodel_instance_base.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_value.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_viewmodel.dart';
+import 'package:rive_custom/src/generated/viewmodel/viewmodel_instance_base.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_value.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_viewmodel.dart';
 
-export 'package:rive/src/generated/viewmodel/viewmodel_instance_base.dart';
+export 'package:rive_custom/src/generated/viewmodel/viewmodel_instance_base.dart';
 
 class ViewModelInstance extends ViewModelInstanceBase {
   List<ViewModelInstanceValue> propertyValues = [];

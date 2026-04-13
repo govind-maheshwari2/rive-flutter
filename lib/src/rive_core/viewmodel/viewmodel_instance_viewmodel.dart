@@ -1,7 +1,7 @@
-import 'package:rive/src/generated/viewmodel/viewmodel_instance_viewmodel_base.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance.dart';
+import 'package:rive_custom/src/generated/viewmodel/viewmodel_instance_viewmodel_base.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance.dart';
 
-export 'package:rive/src/generated/viewmodel/viewmodel_instance_viewmodel_base.dart';
+export 'package:rive_custom/src/generated/viewmodel/viewmodel_instance_viewmodel_base.dart';
 
 class ViewModelInstanceViewModel extends ViewModelInstanceViewModelBase {
   ViewModelInstance? referenceViewModelInstance;

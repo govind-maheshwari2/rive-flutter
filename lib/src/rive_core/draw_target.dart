@@ -1,9 +1,9 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/draw_target_base.dart';
-import 'package:rive/src/rive_core/drawable.dart';
-import 'package:rive/src/rive_core/enum_helper.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/draw_target_base.dart';
+import 'package:rive_custom/src/rive_core/drawable.dart';
+import 'package:rive_custom/src/rive_core/enum_helper.dart';
 
-export 'package:rive/src/generated/draw_target_base.dart';
+export 'package:rive_custom/src/generated/draw_target_base.dart';
 
 enum DrawTargetPlacement { before, after }
 

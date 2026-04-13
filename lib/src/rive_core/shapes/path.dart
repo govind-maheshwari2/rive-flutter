@@ -1,18 +1,18 @@
 import 'dart:math';
 import 'dart:ui' as ui;
 
-import 'package:rive/src/generated/shapes/path_base.dart';
-import 'package:rive/src/rive_core/bounds_provider.dart';
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/component_flags.dart';
-import 'package:rive/src/rive_core/shapes/cubic_vertex.dart';
-import 'package:rive/src/rive_core/shapes/path_vertex.dart';
-import 'package:rive/src/rive_core/shapes/shape.dart';
-import 'package:rive/src/rive_core/shapes/straight_vertex.dart';
+import 'package:rive_custom/src/generated/shapes/path_base.dart';
+import 'package:rive_custom/src/rive_core/bounds_provider.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/component_flags.dart';
+import 'package:rive_custom/src/rive_core/shapes/cubic_vertex.dart';
+import 'package:rive_custom/src/rive_core/shapes/path_vertex.dart';
+import 'package:rive_custom/src/rive_core/shapes/shape.dart';
+import 'package:rive_custom/src/rive_core/shapes/straight_vertex.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/shapes/path_base.dart';
+export 'package:rive_custom/src/generated/shapes/path_base.dart';
 
 enum Axis { horizontal, vertical }
 

@@ -1,8 +1,8 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/transition_condition_base.dart';
-import 'package:rive/src/rive_core/animation/state_transition.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/transition_condition_base.dart';
+import 'package:rive_custom/src/rive_core/animation/state_transition.dart';
 
-export 'package:rive/src/generated/animation/transition_condition_base.dart';
+export 'package:rive_custom/src/generated/animation/transition_condition_base.dart';
 
 enum TransitionConditionOp {
   equal,

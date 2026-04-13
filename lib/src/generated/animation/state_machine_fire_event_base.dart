@@ -2,7 +2,7 @@
 // lib/src/generated/animation/state_machine_fire_event_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
+import 'package:rive_custom/src/core/core.dart';
 
 abstract class StateMachineFireEventBase<T extends CoreContext>
     extends Core<T> {

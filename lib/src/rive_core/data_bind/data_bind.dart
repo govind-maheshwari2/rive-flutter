@@ -1,21 +1,21 @@
-import 'package:rive/src/generated/data_bind/data_bind_base.dart';
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/data_bind/context/context_value.dart';
-import 'package:rive/src/rive_core/data_bind/context/context_value_boolean.dart';
-import 'package:rive/src/rive_core/data_bind/context/context_value_color.dart';
-import 'package:rive/src/rive_core/data_bind/context/context_value_number.dart';
-import 'package:rive/src/rive_core/data_bind/context/context_value_string.dart';
-import 'package:rive/src/rive_core/data_bind/data_context.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_boolean.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_color.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_enum.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_list.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_number.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_string.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_value.dart';
+import 'package:rive_custom/src/generated/data_bind/data_bind_base.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/data_bind/context/context_value.dart';
+import 'package:rive_custom/src/rive_core/data_bind/context/context_value_boolean.dart';
+import 'package:rive_custom/src/rive_core/data_bind/context/context_value_color.dart';
+import 'package:rive_custom/src/rive_core/data_bind/context/context_value_number.dart';
+import 'package:rive_custom/src/rive_core/data_bind/context/context_value_string.dart';
+import 'package:rive_custom/src/rive_core/data_bind/data_context.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_boolean.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_color.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_enum.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_list.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_number.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_string.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_value.dart';
 
-export 'package:rive/src/generated/data_bind/data_bind_base.dart';
+export 'package:rive_custom/src/generated/data_bind/data_bind_base.dart';
 
 class DataBind extends DataBindBase {
   Component? target;

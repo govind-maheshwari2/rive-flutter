@@ -1,19 +1,19 @@
 import 'dart:typed_data';
 import 'dart:ui' as ui;
 
-import 'package:rive/src/generated/shapes/mesh_base.dart';
-import 'package:rive/src/rive_core/bones/skinnable.dart';
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/drawable.dart';
-import 'package:rive/src/rive_core/shapes/contour_mesh_vertex.dart';
-import 'package:rive/src/rive_core/shapes/image.dart';
-import 'package:rive/src/rive_core/shapes/mesh_vertex.dart';
-import 'package:rive/src/rive_core/transform_component.dart';
+import 'package:rive_custom/src/generated/shapes/mesh_base.dart';
+import 'package:rive_custom/src/rive_core/bones/skinnable.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/drawable.dart';
+import 'package:rive_custom/src/rive_core/shapes/contour_mesh_vertex.dart';
+import 'package:rive_custom/src/rive_core/shapes/image.dart';
+import 'package:rive_custom/src/rive_core/shapes/mesh_vertex.dart';
+import 'package:rive_custom/src/rive_core/transform_component.dart';
 import 'package:rive_common/math.dart';
 import 'package:rive_common/utilities.dart';
 
-export 'package:rive/src/generated/shapes/mesh_base.dart';
+export 'package:rive_custom/src/generated/shapes/mesh_base.dart';
 
 class Mesh extends MeshBase with Skinnable<MeshVertex> {
   // When bound to bones pathTransform should be the identity as it'll already

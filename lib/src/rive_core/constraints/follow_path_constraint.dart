@@ -1,16 +1,16 @@
 import 'dart:math';
 import 'dart:ui' as ui;
 
-import 'package:rive/src/generated/constraints/follow_path_constraint_base.dart';
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/constraints/constraint.dart';
-import 'package:rive/src/rive_core/shapes/path.dart';
-import 'package:rive/src/rive_core/shapes/shape.dart';
-import 'package:rive/src/rive_core/transform_component.dart';
-import 'package:rive/src/rive_core/transform_space.dart';
+import 'package:rive_custom/src/generated/constraints/follow_path_constraint_base.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/constraints/constraint.dart';
+import 'package:rive_custom/src/rive_core/shapes/path.dart';
+import 'package:rive_custom/src/rive_core/shapes/shape.dart';
+import 'package:rive_custom/src/rive_core/transform_component.dart';
+import 'package:rive_custom/src/rive_core/transform_space.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/constraints/follow_path_constraint_base.dart';
+export 'package:rive_custom/src/generated/constraints/follow_path_constraint_base.dart';
 
 /// A constraint which transforms its constrained TransformComponent to the
 /// targeted path.

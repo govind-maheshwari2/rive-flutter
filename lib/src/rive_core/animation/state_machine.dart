@@ -1,10 +1,10 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/state_machine_base.dart';
-import 'package:rive/src/rive_core/animation/state_machine_component.dart';
-import 'package:rive/src/rive_core/animation/state_machine_layer.dart';
-import 'package:rive/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/state_machine_base.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_component.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_layer.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
 
-export 'package:rive/src/generated/animation/state_machine_base.dart';
+export 'package:rive_custom/src/generated/animation/state_machine_base.dart';
 
 class StateMachine extends StateMachineBase {
   final StateMachineComponents<StateMachineComponent> inputs =

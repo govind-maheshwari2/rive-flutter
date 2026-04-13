@@ -1,11 +1,11 @@
-import 'package:rive/src/rive_core/animation/animation_reset_factory.dart'
+import 'package:rive_custom/src/rive_core/animation/animation_reset_factory.dart'
     as animation_reset_factory;
-import 'package:rive/src/rive_core/animation/blend_animation_1d.dart';
-import 'package:rive/src/rive_core/animation/blend_state_1d.dart';
-import 'package:rive/src/rive_core/animation/blend_state_instance.dart';
-import 'package:rive/src/rive_core/container_component.dart';
-import 'package:rive/src/rive_core/layer_state_flags.dart';
-import 'package:rive/src/rive_core/state_machine_controller.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_animation_1d.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_state_1d.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_state_instance.dart';
+import 'package:rive_custom/src/rive_core/container_component.dart';
+import 'package:rive_custom/src/rive_core/layer_state_flags.dart';
+import 'package:rive_custom/src/rive_core/state_machine_controller.dart';
 
 /// [BlendState1D] mixing logic that runs inside the [StateMachine].
 class BlendState1DInstance

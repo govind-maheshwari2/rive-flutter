@@ -1,6 +1,6 @@
 import 'dart:collection';
 
-import 'package:rive/src/rive_core/animation/state_machine_fire_event.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_fire_event.dart';
 
 class LayerComponentEvents extends ListBase<StateMachineFireEvent> {
   final List<StateMachineFireEvent?> _values = [];

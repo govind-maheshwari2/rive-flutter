@@ -1,10 +1,10 @@
-import 'package:rive/src/generated/solo_base.dart';
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/constraints/constraint.dart';
-import 'package:rive/src/rive_core/container_component.dart';
-import 'package:rive/src/rive_core/shapes/clipping_shape.dart';
+import 'package:rive_custom/src/generated/solo_base.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/constraints/constraint.dart';
+import 'package:rive_custom/src/rive_core/container_component.dart';
+import 'package:rive_custom/src/rive_core/shapes/clipping_shape.dart';
 
-export 'package:rive/src/generated/solo_base.dart';
+export 'package:rive_custom/src/generated/solo_base.dart';
 
 class Solo extends SoloBase {
   Component? _activeComponent;

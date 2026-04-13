@@ -1,9 +1,9 @@
-import 'package:rive/src/generated/constraints/transform_space_constraint_base.dart';
-import 'package:rive/src/rive_core/enum_helper.dart';
-import 'package:rive/src/rive_core/transform_space.dart';
+import 'package:rive_custom/src/generated/constraints/transform_space_constraint_base.dart';
+import 'package:rive_custom/src/rive_core/enum_helper.dart';
+import 'package:rive_custom/src/rive_core/transform_space.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/constraints/transform_space_constraint_base.dart';
+export 'package:rive_custom/src/generated/constraints/transform_space_constraint_base.dart';
 
 abstract class TransformSpaceConstraint extends TransformSpaceConstraintBase {
   final TransformComponents componentsA = TransformComponents();

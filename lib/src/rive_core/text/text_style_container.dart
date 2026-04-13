@@ -1,8 +1,8 @@
 import 'dart:collection';
 
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/container_component.dart';
-import 'package:rive/src/rive_core/text/text_style.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/container_component.dart';
+import 'package:rive_custom/src/rive_core/text/text_style.dart';
 import 'package:rive_common/utilities.dart';
 
 /// An abstraction to give a common interface to any component that can contain

@@ -1,9 +1,9 @@
 import 'dart:ui' as ui;
 
-import 'package:rive/src/rive_core/artboard.dart';
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/shapes/shape.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/shapes/shape.dart';
 import 'package:rive_common/math.dart';
 
 /// The PathComposer builds the desired world and local paths for the shapes and

@@ -1,6 +1,6 @@
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_value.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_viewmodel.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_value.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_viewmodel.dart';
 
 class DataContext {
   final ViewModelInstance viewModelInstance;

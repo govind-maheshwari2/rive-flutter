@@ -2,10 +2,10 @@
 // lib/src/generated/constraints/ik_constraint_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/component_base.dart';
-import 'package:rive/src/generated/constraints/constraint_base.dart';
-import 'package:rive/src/rive_core/constraints/targeted_constraint.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/component_base.dart';
+import 'package:rive_custom/src/generated/constraints/constraint_base.dart';
+import 'package:rive_custom/src/rive_core/constraints/targeted_constraint.dart';
 
 abstract class IKConstraintBase extends TargetedConstraint {
   static const int typeKey = 81;

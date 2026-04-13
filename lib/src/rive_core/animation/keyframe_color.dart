@@ -1,8 +1,8 @@
 import 'dart:ui';
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/keyframe_color_base.dart';
-export 'package:rive/src/generated/animation/keyframe_color_base.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/keyframe_color_base.dart';
+export 'package:rive_custom/src/generated/animation/keyframe_color_base.dart';
 
 void _apply(Core<CoreContext> object, int propertyKey, double mix, int value) {
   if (mix == 1) {

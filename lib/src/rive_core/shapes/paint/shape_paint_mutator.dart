@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rive/src/rive_core/artboard.dart';
-import 'package:rive/src/rive_core/shapes/shape_paint_container.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/rive_core/shapes/shape_paint_container.dart';
 
 abstract class ShapePaintMutator {
   ShapePaintContainer? _shapePaintContainer;

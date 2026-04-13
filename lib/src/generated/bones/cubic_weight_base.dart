@@ -1,9 +1,9 @@
 // Core automatically generated lib/src/generated/bones/cubic_weight_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/component_base.dart';
-import 'package:rive/src/rive_core/bones/weight.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/component_base.dart';
+import 'package:rive_custom/src/rive_core/bones/weight.dart';
 
 abstract class CubicWeightBase extends Weight {
   static const int typeKey = 46;

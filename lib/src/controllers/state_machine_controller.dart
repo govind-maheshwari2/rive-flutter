@@ -1,13 +1,13 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/state_machine.dart';
-import 'package:rive/src/rive_core/animation/state_machine_bool.dart';
-import 'package:rive/src/rive_core/animation/state_machine_input.dart' as core;
-import 'package:rive/src/rive_core/animation/state_machine_number.dart';
-import 'package:rive/src/rive_core/animation/state_machine_trigger.dart';
-import 'package:rive/src/rive_core/artboard.dart';
-import 'package:rive/src/rive_core/state_machine_controller.dart' as core;
-import 'package:rive/src/runtime_mounted_artboard.dart';
-export 'package:rive/src/runtime_mounted_artboard.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_bool.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_input.dart' as core;
+import 'package:rive_custom/src/rive_core/animation/state_machine_number.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_trigger.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/rive_core/state_machine_controller.dart' as core;
+import 'package:rive_custom/src/runtime_mounted_artboard.dart';
+export 'package:rive_custom/src/runtime_mounted_artboard.dart';
 
 /// [StateMachine]s supports three input types. The StateMachine mostly
 /// abstracts types by allowing the programmer to query for an input of a

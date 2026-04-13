@@ -1,12 +1,12 @@
 import 'dart:ui';
 
-import 'package:rive/src/generated/shapes/clipping_shape_base.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/enum_helper.dart';
-import 'package:rive/src/rive_core/node.dart';
-import 'package:rive/src/rive_core/shapes/shape.dart';
+import 'package:rive_custom/src/generated/shapes/clipping_shape_base.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/enum_helper.dart';
+import 'package:rive_custom/src/rive_core/node.dart';
+import 'package:rive_custom/src/rive_core/shapes/shape.dart';
 
-export 'package:rive/src/generated/shapes/clipping_shape_base.dart';
+export 'package:rive_custom/src/generated/shapes/clipping_shape_base.dart';
 
 class ClippingShape extends ClippingShapeBase {
   final Path clippingPath = Path();

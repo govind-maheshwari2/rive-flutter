@@ -1,5 +1,5 @@
-import 'package:rive/src/generated/animation/nested_number_base.dart';
-export 'package:rive/src/generated/animation/nested_number_base.dart';
+import 'package:rive_custom/src/generated/animation/nested_number_base.dart';
+export 'package:rive_custom/src/generated/animation/nested_number_base.dart';
 
 class NestedNumber extends NestedNumberBase {
   @override

@@ -1,11 +1,11 @@
 library rive_core;
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/state_machine_fire_event_base.dart';
-import 'package:rive/src/rive_core/animation/state_machine_layer_component.dart';
-import 'package:rive/src/rive_core/enum_helper.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/state_machine_fire_event_base.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_layer_component.dart';
+import 'package:rive_custom/src/rive_core/enum_helper.dart';
 
-export 'package:rive/src/generated/animation/state_machine_fire_event_base.dart';
+export 'package:rive_custom/src/generated/animation/state_machine_fire_event_base.dart';
 
 enum StateMachineFireOccurance {
   atStart,

@@ -1,6 +1,6 @@
-import 'package:rive/src/core/importers/artboard_import_stack_object.dart';
-import 'package:rive/src/rive_core/animation/state_machine.dart';
-import 'package:rive/src/rive_core/animation/state_machine_component.dart';
+import 'package:rive_custom/src/core/importers/artboard_import_stack_object.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_component.dart';
 
 class StateMachineImporter extends ArtboardImportStackObject {
   final StateMachine machine;

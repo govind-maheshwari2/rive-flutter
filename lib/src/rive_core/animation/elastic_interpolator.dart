@@ -2,11 +2,11 @@
 
 import 'dart:math';
 
-import 'package:rive/src/generated/animation/elastic_interpolator_base.dart';
-import 'package:rive/src/rive_core/animation/interpolator.dart';
-import 'package:rive/src/rive_core/enum_helper.dart';
+import 'package:rive_custom/src/generated/animation/elastic_interpolator_base.dart';
+import 'package:rive_custom/src/rive_core/animation/interpolator.dart';
+import 'package:rive_custom/src/rive_core/enum_helper.dart';
 
-export 'package:rive/src/generated/animation/elastic_interpolator_base.dart';
+export 'package:rive_custom/src/generated/animation/elastic_interpolator_base.dart';
 
 enum Easing {
   easeIn,

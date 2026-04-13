@@ -1,17 +1,17 @@
 import 'dart:ui' as ui;
 
-import 'package:rive/src/generated/shapes/image_base.dart';
-import 'package:rive/src/rive_core/assets/file_asset.dart';
-import 'package:rive/src/rive_core/assets/image_asset.dart';
-import 'package:rive/src/rive_core/bones/skinnable.dart';
-import 'package:rive/src/rive_core/bounds_provider.dart';
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/container_component.dart';
-import 'package:rive/src/rive_core/shapes/mesh.dart';
-import 'package:rive/src/rive_core/shapes/mesh_vertex.dart';
+import 'package:rive_custom/src/generated/shapes/image_base.dart';
+import 'package:rive_custom/src/rive_core/assets/file_asset.dart';
+import 'package:rive_custom/src/rive_core/assets/image_asset.dart';
+import 'package:rive_custom/src/rive_core/bones/skinnable.dart';
+import 'package:rive_custom/src/rive_core/bounds_provider.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/container_component.dart';
+import 'package:rive_custom/src/rive_core/shapes/mesh.dart';
+import 'package:rive_custom/src/rive_core/shapes/mesh_vertex.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/shapes/image_base.dart';
+export 'package:rive_custom/src/generated/shapes/image_base.dart';
 
 class Image extends ImageBase
     with

@@ -1,8 +1,8 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/assets/file_asset_base.dart';
-import 'package:rive/src/rive_core/backboard.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/assets/file_asset_base.dart';
+import 'package:rive_custom/src/rive_core/backboard.dart';
 
-export 'package:rive/src/generated/assets/file_asset_base.dart';
+export 'package:rive_custom/src/generated/assets/file_asset_base.dart';
 
 abstract class FileAsset extends FileAssetBase {
   late final List<WeakReference<FileAssetReferencer>> _fileAssetReferencers =

@@ -2,9 +2,9 @@
 // lib/src/generated/assets/export_audio_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/assets/asset_base.dart';
-import 'package:rive/src/rive_core/assets/file_asset.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/assets/asset_base.dart';
+import 'package:rive_custom/src/rive_core/assets/file_asset.dart';
 
 abstract class ExportAudioBase extends FileAsset {
   static const int typeKey = 422;

@@ -1,7 +1,7 @@
 // Core automatically generated lib/src/generated/component_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
+import 'package:rive_custom/src/core/core.dart';
 
 abstract class ComponentBase<T extends CoreContext> extends Core<T> {
   static const int typeKey = 10;

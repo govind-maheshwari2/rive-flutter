@@ -1,5 +1,5 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_value.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_value.dart';
 
 abstract class ContextValue {
   ViewModelInstanceValue? source;

@@ -1,9 +1,9 @@
-import 'package:rive/src/generated/animation/listener_number_change_base.dart';
-import 'package:rive/src/rive_core/animation/nested_number.dart';
-import 'package:rive/src/rive_core/state_machine_controller.dart';
+import 'package:rive_custom/src/generated/animation/listener_number_change_base.dart';
+import 'package:rive_custom/src/rive_core/animation/nested_number.dart';
+import 'package:rive_custom/src/rive_core/state_machine_controller.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/animation/listener_number_change_base.dart';
+export 'package:rive_custom/src/generated/animation/listener_number_change_base.dart';
 
 class ListenerNumberChange extends ListenerNumberChangeBase {
   @override

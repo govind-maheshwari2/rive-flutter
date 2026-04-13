@@ -1,8 +1,8 @@
-import 'package:rive/src/generated/bones/tendon_base.dart';
-import 'package:rive/src/rive_core/bones/skeletal_component.dart';
+import 'package:rive_custom/src/generated/bones/tendon_base.dart';
+import 'package:rive_custom/src/rive_core/bones/skeletal_component.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/bones/tendon_base.dart';
+export 'package:rive_custom/src/generated/bones/tendon_base.dart';
 
 class Tendon extends TendonBase {
   final Mat2D _bind = Mat2D();

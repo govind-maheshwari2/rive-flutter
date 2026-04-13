@@ -2,9 +2,9 @@
 // lib/src/generated/animation/transition_value_condition_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/transition_condition_base.dart';
-import 'package:rive/src/rive_core/animation/transition_input_condition.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/transition_condition_base.dart';
+import 'package:rive_custom/src/rive_core/animation/transition_input_condition.dart';
 
 abstract class TransitionValueConditionBase extends TransitionInputCondition {
   static const int typeKey = 69;

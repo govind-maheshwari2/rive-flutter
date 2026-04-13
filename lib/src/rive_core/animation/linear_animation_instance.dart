@@ -1,10 +1,10 @@
 // ignore_for_file: lines_longer_than_80_chars
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/keyed_object.dart';
-import 'package:rive/src/rive_core/animation/linear_animation.dart';
-import 'package:rive/src/rive_core/animation/loop.dart';
-import 'package:rive/src/rive_core/event.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/keyed_object.dart';
+import 'package:rive_custom/src/rive_core/animation/linear_animation.dart';
+import 'package:rive_custom/src/rive_core/animation/loop.dart';
+import 'package:rive_custom/src/rive_core/event.dart';
 
 class LinearAnimationInstance {
   final LinearAnimation animation;

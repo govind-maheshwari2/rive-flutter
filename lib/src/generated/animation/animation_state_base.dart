@@ -2,10 +2,10 @@
 // lib/src/generated/animation/animation_state_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/layer_state_base.dart';
-import 'package:rive/src/generated/animation/state_machine_layer_component_base.dart';
-import 'package:rive/src/rive_core/animation/advanceable_state.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/layer_state_base.dart';
+import 'package:rive_custom/src/generated/animation/state_machine_layer_component_base.dart';
+import 'package:rive_custom/src/rive_core/animation/advanceable_state.dart';
 
 abstract class AnimationStateBase extends AdvanceableState {
   static const int typeKey = 61;

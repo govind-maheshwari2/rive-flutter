@@ -1,24 +1,24 @@
 import 'dart:collection';
 import 'dart:ui' as ui;
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/text/text_style_base.dart';
-import 'package:rive/src/rive_core/artboard.dart';
-import 'package:rive/src/rive_core/assets/file_asset.dart';
-import 'package:rive/src/rive_core/assets/font_asset.dart';
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/shapes/paint/shape_paint.dart';
-import 'package:rive/src/rive_core/shapes/paint/shape_paint_mutator.dart';
-import 'package:rive/src/rive_core/shapes/shape_paint_container.dart';
-import 'package:rive/src/rive_core/text/text.dart';
-import 'package:rive/src/rive_core/text/text_style_axis.dart';
-import 'package:rive/src/rive_core/text/text_style_feature.dart';
-import 'package:rive/src/rive_core/text/text_value_run.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/text/text_style_base.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/rive_core/assets/file_asset.dart';
+import 'package:rive_custom/src/rive_core/assets/font_asset.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/shapes/paint/shape_paint.dart';
+import 'package:rive_custom/src/rive_core/shapes/paint/shape_paint_mutator.dart';
+import 'package:rive_custom/src/rive_core/shapes/shape_paint_container.dart';
+import 'package:rive_custom/src/rive_core/text/text.dart';
+import 'package:rive_custom/src/rive_core/text/text_style_axis.dart';
+import 'package:rive_custom/src/rive_core/text/text_style_feature.dart';
+import 'package:rive_custom/src/rive_core/text/text_value_run.dart';
 import 'package:rive_common/math.dart';
 import 'package:rive_common/rive_text.dart';
 
-export 'package:rive/src/generated/text/text_style_base.dart';
+export 'package:rive_custom/src/generated/text/text_style_base.dart';
 
 class TextVariationHelper extends Component {
   final TextStyle style;

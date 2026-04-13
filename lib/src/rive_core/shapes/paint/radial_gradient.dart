@@ -1,6 +1,6 @@
 import 'dart:ui' as ui;
-import 'package:rive/src/generated/shapes/paint/radial_gradient_base.dart';
-export 'package:rive/src/generated/shapes/paint/radial_gradient_base.dart';
+import 'package:rive_custom/src/generated/shapes/paint/radial_gradient_base.dart';
+export 'package:rive_custom/src/generated/shapes/paint/radial_gradient_base.dart';
 
 class RadialGradient extends RadialGradientBase {
   /// We override the make gradient operation to create a radial gradient

@@ -1,5 +1,5 @@
 import 'dart:collection';
-import 'package:rive/src/rive_core/event.dart';
+import 'package:rive_custom/src/rive_core/event.dart';
 
 class EventList extends ListBase<Event> {
   // Lame way to do this due to how ListBase needs to expand a nullable list.

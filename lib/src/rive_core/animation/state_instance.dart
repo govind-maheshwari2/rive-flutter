@@ -1,6 +1,6 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/layer_state.dart';
-import 'package:rive/src/rive_core/state_machine_controller.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/layer_state.dart';
+import 'package:rive_custom/src/rive_core/state_machine_controller.dart';
 
 /// Represents the instance of a [LayerState] which is being used in a
 /// [LayerController] of a [StateMachineController]. Abstract representation of

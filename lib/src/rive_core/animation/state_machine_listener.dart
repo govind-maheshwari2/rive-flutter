@@ -1,16 +1,16 @@
 import 'dart:collection';
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/state_machine_listener_base.dart';
-import 'package:rive/src/rive_core/animation/listener_action.dart';
-import 'package:rive/src/rive_core/animation/state_machine.dart';
-import 'package:rive/src/rive_core/animation/state_machine_component.dart';
-import 'package:rive/src/rive_core/event.dart';
-import 'package:rive/src/rive_core/state_machine_controller.dart';
-import 'package:rive/src/rive_core/world_transform_component.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/state_machine_listener_base.dart';
+import 'package:rive_custom/src/rive_core/animation/listener_action.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_component.dart';
+import 'package:rive_custom/src/rive_core/event.dart';
+import 'package:rive_custom/src/rive_core/state_machine_controller.dart';
+import 'package:rive_custom/src/rive_core/world_transform_component.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/animation/state_machine_listener_base.dart';
+export 'package:rive_custom/src/generated/animation/state_machine_listener_base.dart';
 
 enum ListenerType { enter, exit, down, up, move, event, click }
 

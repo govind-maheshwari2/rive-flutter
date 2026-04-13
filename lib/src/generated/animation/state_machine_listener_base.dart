@@ -2,8 +2,8 @@
 // lib/src/generated/animation/state_machine_listener_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/state_machine_component.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_component.dart';
 
 abstract class StateMachineListenerBase extends StateMachineComponent {
   static const int typeKey = 114;

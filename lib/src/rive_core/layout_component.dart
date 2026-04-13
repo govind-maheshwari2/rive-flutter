@@ -1,22 +1,22 @@
 import 'dart:math';
 
 import 'package:flutter/rendering.dart';
-import 'package:rive/src/generated/layout_component_base.dart';
-import 'package:rive/src/rive_core/animation/keyframe_interpolator.dart';
-import 'package:rive/src/rive_core/artboard.dart';
-import 'package:rive/src/rive_core/bounds_provider.dart';
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/container_component.dart';
-import 'package:rive/src/rive_core/layout/layout_component_style.dart';
-import 'package:rive/src/rive_core/node.dart';
-import 'package:rive/src/rive_core/shapes/paint/shape_paint_mutator.dart';
-import 'package:rive/src/rive_core/shapes/shape_paint_container.dart';
-import 'package:rive/src/rive_core/world_transform_component.dart';
 import 'package:rive_common/layout_engine.dart';
 import 'package:rive_common/math.dart';
+import 'package:rive_custom/src/generated/layout_component_base.dart';
+import 'package:rive_custom/src/rive_core/animation/keyframe_interpolator.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/rive_core/bounds_provider.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/container_component.dart';
+import 'package:rive_custom/src/rive_core/layout/layout_component_style.dart';
+import 'package:rive_custom/src/rive_core/node.dart';
+import 'package:rive_custom/src/rive_core/shapes/paint/shape_paint_mutator.dart';
+import 'package:rive_custom/src/rive_core/shapes/shape_paint_container.dart';
+import 'package:rive_custom/src/rive_core/world_transform_component.dart';
 
-export 'package:rive/src/generated/layout_component_base.dart';
+export 'package:rive_custom/src/generated/layout_component_base.dart';
 
 extension ComponentExtension on Component {
   LayoutComponent? get layoutParent {

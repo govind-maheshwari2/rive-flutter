@@ -1,5 +1,5 @@
-import 'package:rive/src/generated/animation/cubic_ease_interpolator_base.dart';
-import 'package:rive/src/rive_core/animation/cubic_interpolator.dart';
+import 'package:rive_custom/src/generated/animation/cubic_ease_interpolator_base.dart';
+import 'package:rive_custom/src/rive_core/animation/cubic_interpolator.dart';
 
 class Cubic extends CubicEase {
   final InterpolatorCubicFactor _x;

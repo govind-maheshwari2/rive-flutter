@@ -1,7 +1,7 @@
-import 'package:rive/rive.dart';
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/layer_state.dart';
-import 'package:rive/src/rive_core/animation/state_machine_layer.dart';
+import 'package:rive_custom/rive.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/layer_state.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_layer.dart';
 
 class StateMachineLayerImporter extends ImportStackObject {
   final StateMachineLayer layer;

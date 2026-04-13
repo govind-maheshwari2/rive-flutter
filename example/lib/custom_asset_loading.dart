@@ -2,7 +2,7 @@ import 'dart:math';
 import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 import 'package:http/http.dart' as http;
 
 /// An example showing how to load image or font assets dynamically.

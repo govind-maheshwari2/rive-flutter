@@ -1,21 +1,21 @@
 import 'dart:math';
 import 'dart:ui';
 
-import 'package:rive/src/generated/text/text_base.dart';
-import 'package:rive/src/rive_core/bounds_provider.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/container_component.dart';
-import 'package:rive/src/rive_core/enum_helper.dart';
-import 'package:rive/src/rive_core/layout_component.dart';
-import 'package:rive/src/rive_core/text/styled_text.dart';
-import 'package:rive/src/rive_core/text/text_modifier_group.dart';
-import 'package:rive/src/rive_core/text/text_style.dart' as rive;
-import 'package:rive/src/rive_core/text/text_style_container.dart';
-import 'package:rive/src/rive_core/text/text_value_run.dart';
+import 'package:rive_custom/src/generated/text/text_base.dart';
+import 'package:rive_custom/src/rive_core/bounds_provider.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/container_component.dart';
+import 'package:rive_custom/src/rive_core/enum_helper.dart';
+import 'package:rive_custom/src/rive_core/layout_component.dart';
+import 'package:rive_custom/src/rive_core/text/styled_text.dart';
+import 'package:rive_custom/src/rive_core/text/text_modifier_group.dart';
+import 'package:rive_custom/src/rive_core/text/text_style.dart' as rive;
+import 'package:rive_custom/src/rive_core/text/text_style_container.dart';
+import 'package:rive_custom/src/rive_core/text/text_value_run.dart';
 import 'package:rive_common/math.dart';
 import 'package:rive_common/rive_text.dart';
 
-export 'package:rive/src/generated/text/text_base.dart';
+export 'package:rive_custom/src/generated/text/text_base.dart';
 
 enum TextSizing {
   autoWidth,

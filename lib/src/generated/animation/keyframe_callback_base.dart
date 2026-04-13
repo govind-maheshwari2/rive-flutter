@@ -2,7 +2,7 @@
 // lib/src/generated/animation/keyframe_callback_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/rive_core/animation/keyframe.dart';
+import 'package:rive_custom/src/rive_core/animation/keyframe.dart';
 
 abstract class KeyFrameCallbackBase extends KeyFrame {
   static const int typeKey = 171;

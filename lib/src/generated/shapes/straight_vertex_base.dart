@@ -2,12 +2,12 @@
 // lib/src/generated/shapes/straight_vertex_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/component_base.dart';
-import 'package:rive/src/generated/container_component_base.dart';
-import 'package:rive/src/generated/shapes/vertex_base.dart';
-import 'package:rive/src/rive_core/bones/weight.dart';
-import 'package:rive/src/rive_core/shapes/path_vertex.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/component_base.dart';
+import 'package:rive_custom/src/generated/container_component_base.dart';
+import 'package:rive_custom/src/generated/shapes/vertex_base.dart';
+import 'package:rive_custom/src/rive_core/bones/weight.dart';
+import 'package:rive_custom/src/rive_core/shapes/path_vertex.dart';
 
 abstract class StraightVertexBase extends PathVertex<Weight> {
   static const int typeKey = 5;

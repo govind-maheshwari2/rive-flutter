@@ -1,10 +1,10 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/keyed_object.dart';
-import 'package:rive/src/rive_core/animation/linear_animation_instance.dart'
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/keyed_object.dart';
+import 'package:rive_custom/src/rive_core/animation/linear_animation_instance.dart'
     as core;
-import 'package:rive/src/rive_core/event.dart';
-import 'package:rive/src/runtime_mounted_artboard.dart';
-export 'package:rive/src/runtime_mounted_artboard.dart';
+import 'package:rive_custom/src/rive_core/event.dart';
+import 'package:rive_custom/src/runtime_mounted_artboard.dart';
+export 'package:rive_custom/src/runtime_mounted_artboard.dart';
 
 /// An AnimationController which controls a StateMachine and provides access to
 /// the inputs of the StateMachine.

@@ -1,13 +1,13 @@
-import 'package:rive/src/generated/data_bind/data_bind_context_base.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/data_bind/data_context.dart';
-import 'package:rive/src/rive_core/data_bind_flags.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_color.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_number.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_string.dart';
+import 'package:rive_custom/src/generated/data_bind/data_bind_context_base.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/data_bind/data_context.dart';
+import 'package:rive_custom/src/rive_core/data_bind_flags.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_color.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_number.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_string.dart';
 import 'package:rive_common/utilities.dart';
 
-export 'package:rive/src/generated/data_bind/data_bind_context_base.dart';
+export 'package:rive_custom/src/generated/data_bind/data_bind_context_base.dart';
 
 // ignore: one_member_abstracts
 abstract class DataBindContextInterface {

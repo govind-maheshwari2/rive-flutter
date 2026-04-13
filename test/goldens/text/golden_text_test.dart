@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:rive/math.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/math.dart';
+import 'package:rive_custom/rive.dart';
 
 import '../../src/utils.dart';
 import '../golden_comparator.dart';

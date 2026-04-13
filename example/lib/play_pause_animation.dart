@@ -1,7 +1,7 @@
 /// Demonstrates how to play and pause a looping animation
 
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 
 class PlayPauseAnimation extends StatefulWidget {
   const PlayPauseAnimation({Key? key}) : super(key: key);

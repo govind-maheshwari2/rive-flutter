@@ -1,13 +1,13 @@
 import 'dart:math';
 
-import 'package:rive/src/generated/constraints/ik_constraint_base.dart';
-import 'package:rive/src/rive_core/bones/bone.dart';
-import 'package:rive/src/rive_core/bones/root_bone.dart';
-import 'package:rive/src/rive_core/constraints/constraint.dart';
-import 'package:rive/src/rive_core/transform_component.dart';
+import 'package:rive_custom/src/generated/constraints/ik_constraint_base.dart';
+import 'package:rive_custom/src/rive_core/bones/bone.dart';
+import 'package:rive_custom/src/rive_core/bones/root_bone.dart';
+import 'package:rive_custom/src/rive_core/constraints/constraint.dart';
+import 'package:rive_custom/src/rive_core/transform_component.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/constraints/ik_constraint_base.dart';
+export 'package:rive_custom/src/generated/constraints/ik_constraint_base.dart';
 
 /// A constraint which rotates its constrained bone and the parentBoneCount
 /// bones above it in order to move the tip of the constrained bone towards the

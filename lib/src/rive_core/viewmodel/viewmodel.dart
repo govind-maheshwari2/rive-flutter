@@ -1,10 +1,10 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/viewmodel/viewmodel_base.dart';
-import 'package:rive/src/rive_core/container_component.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_property.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/viewmodel/viewmodel_base.dart';
+import 'package:rive_custom/src/rive_core/container_component.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_property.dart';
 
-export 'package:rive/src/generated/viewmodel/viewmodel_base.dart';
+export 'package:rive_custom/src/generated/viewmodel/viewmodel_base.dart';
 
 class ViewModel extends ViewModelBase {
   ViewModelProperties children = ViewModelProperties();

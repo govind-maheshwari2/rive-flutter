@@ -2,8 +2,8 @@
 // lib/src/generated/animation/nested_input_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/component.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
 
 abstract class NestedInputBase extends Component {
   static const int typeKey = 121;

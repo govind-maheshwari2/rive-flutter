@@ -1,10 +1,10 @@
 import 'dart:collection';
 
-import 'package:rive/src/generated/text/text_variation_modifier_base.dart';
-import 'package:rive/src/rive_core/text/text.dart';
+import 'package:rive_custom/src/generated/text/text_variation_modifier_base.dart';
+import 'package:rive_custom/src/rive_core/text/text.dart';
 import 'package:rive_common/rive_text.dart';
 
-export 'package:rive/src/generated/text/text_variation_modifier_base.dart';
+export 'package:rive_custom/src/generated/text/text_variation_modifier_base.dart';
 
 class TextVariationModifier extends TextVariationModifierBase {
   String get tagName => FontTag.tagToName(axisTag);

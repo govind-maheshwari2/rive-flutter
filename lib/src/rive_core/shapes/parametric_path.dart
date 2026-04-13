@@ -1,10 +1,10 @@
 import 'dart:ui';
 
-import 'package:rive/src/generated/shapes/parametric_path_base.dart';
-import 'package:rive/src/rive_core/bounds_provider.dart';
+import 'package:rive_custom/src/generated/shapes/parametric_path_base.dart';
+import 'package:rive_custom/src/rive_core/bounds_provider.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/shapes/parametric_path_base.dart';
+export 'package:rive_custom/src/generated/shapes/parametric_path_base.dart';
 
 abstract class ParametricPath extends ParametricPathBase implements Sizable {
   @override

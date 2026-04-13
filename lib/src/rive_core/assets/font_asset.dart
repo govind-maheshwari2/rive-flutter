@@ -1,12 +1,12 @@
 import 'dart:async';
 
 import 'package:flutter/foundation.dart';
-import 'package:rive/src/generated/assets/font_asset_base.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/text/text_style.dart';
+import 'package:rive_custom/src/generated/assets/font_asset_base.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/text/text_style.dart';
 import 'package:rive_common/rive_text.dart';
 
-export 'package:rive/src/generated/assets/font_asset_base.dart';
+export 'package:rive_custom/src/generated/assets/font_asset_base.dart';
 
 class FontAsset extends FontAssetBase {
   final Set<VoidCallback> _callbacks = {};

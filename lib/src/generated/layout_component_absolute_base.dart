@@ -2,10 +2,10 @@
 // lib/src/generated/layout_component_absolute_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/generated/component_base.dart';
-import 'package:rive/src/generated/container_component_base.dart';
-import 'package:rive/src/generated/world_transform_component_base.dart';
-import 'package:rive/src/rive_core/layout_component.dart';
+import 'package:rive_custom/src/generated/component_base.dart';
+import 'package:rive_custom/src/generated/container_component_base.dart';
+import 'package:rive_custom/src/generated/world_transform_component_base.dart';
+import 'package:rive_custom/src/rive_core/layout_component.dart';
 
 abstract class AbsoluteLayoutComponentBase extends LayoutComponent {
   static const int typeKey = 423;

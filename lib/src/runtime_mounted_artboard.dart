@@ -1,11 +1,11 @@
 import 'package:flutter/rendering.dart';
-import 'package:rive/src/controllers/state_machine_controller.dart';
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/data_bind/data_bind.dart';
-import 'package:rive/src/rive_core/data_bind/data_context.dart';
-import 'package:rive/src/rive_core/event.dart';
-import 'package:rive/src/rive_core/nested_artboard.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance.dart';
+import 'package:rive_custom/src/controllers/state_machine_controller.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/data_bind/data_bind.dart';
+import 'package:rive_custom/src/rive_core/data_bind/data_context.dart';
+import 'package:rive_custom/src/rive_core/event.dart';
+import 'package:rive_custom/src/rive_core/nested_artboard.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance.dart';
 import 'package:rive_common/math.dart';
 
 /// Callback signature for events firing.

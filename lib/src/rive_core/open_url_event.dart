@@ -1,8 +1,8 @@
-import 'package:rive/src/generated/open_url_event_base.dart';
-import 'package:rive/src/rive_core/artboard.dart';
-import 'package:rive/src/rive_core/open_url_target.dart';
+import 'package:rive_custom/src/generated/open_url_event_base.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/rive_core/open_url_target.dart';
 
-export 'package:rive/src/generated/open_url_event_base.dart';
+export 'package:rive_custom/src/generated/open_url_event_base.dart';
 
 class OpenUrlEvent extends OpenUrlEventBase {
   @override

@@ -1,15 +1,15 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/nested_state_machine_base.dart';
-import 'package:rive/src/rive_core/animation/nested_bool.dart';
-import 'package:rive/src/rive_core/animation/nested_input.dart';
-import 'package:rive/src/rive_core/animation/nested_number.dart';
-import 'package:rive/src/rive_core/nested_artboard.dart';
-import 'package:rive/src/rive_core/state_machine_controller.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/nested_state_machine_base.dart';
+import 'package:rive_custom/src/rive_core/animation/nested_bool.dart';
+import 'package:rive_custom/src/rive_core/animation/nested_input.dart';
+import 'package:rive_custom/src/rive_core/animation/nested_number.dart';
+import 'package:rive_custom/src/rive_core/nested_artboard.dart';
+import 'package:rive_custom/src/rive_core/state_machine_controller.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/animation/nested_state_machine_base.dart';
+export 'package:rive_custom/src/generated/animation/nested_state_machine_base.dart';
 
 abstract class NestedStateMachineInstance {
   bool get isActive;

@@ -2,8 +2,8 @@
 // lib/src/generated/data_bind/data_bind_context_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/data_bind/data_bind.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/data_bind/data_bind.dart';
 
 abstract class DataBindContextBase extends DataBind {
   static const int typeKey = 447;

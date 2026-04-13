@@ -1,11 +1,11 @@
-import 'package:rive/src/generated/component_base.dart';
-import 'package:rive/src/rive_core/artboard.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/container_component.dart';
-import 'package:rive/src/rive_core/dependency_helper.dart';
 import 'package:rive_common/utilities.dart';
+import 'package:rive_custom/src/generated/component_base.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/container_component.dart';
+import 'package:rive_custom/src/rive_core/dependency_helper.dart';
 
-export 'package:rive/src/generated/component_base.dart';
+export 'package:rive_custom/src/generated/component_base.dart';
 
 abstract class Component extends ComponentBase<RuntimeArtboard>
     implements DependencyGraphNode<Component>, Parentable<Component> {

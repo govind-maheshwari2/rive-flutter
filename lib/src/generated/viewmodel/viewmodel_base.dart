@@ -2,8 +2,8 @@
 // lib/src/generated/viewmodel/viewmodel_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_component.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_component.dart';
 
 abstract class ViewModelBase extends ViewModelComponent {
   static const int typeKey = 435;

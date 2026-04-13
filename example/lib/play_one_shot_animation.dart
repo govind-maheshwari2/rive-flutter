@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 
 /// Demonstrates playing a one-shot animation on demand
 class PlayOneShotAnimation extends StatefulWidget {

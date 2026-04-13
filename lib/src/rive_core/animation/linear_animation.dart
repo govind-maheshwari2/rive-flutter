@@ -1,12 +1,12 @@
 import 'dart:collection';
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/linear_animation_base.dart';
-import 'package:rive/src/rive_core/animation/keyed_object.dart';
-import 'package:rive/src/rive_core/animation/loop.dart';
-import 'package:rive/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/linear_animation_base.dart';
+import 'package:rive_custom/src/rive_core/animation/keyed_object.dart';
+import 'package:rive_custom/src/rive_core/animation/loop.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
 
-export 'package:rive/src/generated/animation/linear_animation_base.dart';
+export 'package:rive_custom/src/generated/animation/linear_animation_base.dart';
 
 class LinearAnimation extends LinearAnimationBase {
   /// Map objectId to KeyedObject. N.B. this is the id of the object that we

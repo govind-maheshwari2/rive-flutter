@@ -1,8 +1,8 @@
-import 'package:rive/src/generated/bones/bone_base.dart';
-import 'package:rive/src/rive_core/constraints/constraint.dart';
+import 'package:rive_custom/src/generated/bones/bone_base.dart';
+import 'package:rive_custom/src/rive_core/constraints/constraint.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/bones/bone_base.dart';
+export 'package:rive_custom/src/generated/bones/bone_base.dart';
 
 typedef bool BoneCallback(Bone bone);
 

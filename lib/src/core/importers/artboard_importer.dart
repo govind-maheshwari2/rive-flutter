@@ -1,7 +1,7 @@
-import 'package:rive/rive.dart';
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/animation.dart';
-import 'package:rive/src/rive_core/component.dart';
+import 'package:rive_custom/rive.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/animation.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
 
 class ArtboardImporter extends ImportStackObject {
   final RuntimeArtboard artboard;

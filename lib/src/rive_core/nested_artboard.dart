@@ -1,23 +1,23 @@
 import 'dart:math';
 import 'dart:ui';
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/nested_artboard_base.dart';
-import 'package:rive/src/rive_core/animation/nested_remap_animation.dart';
-import 'package:rive/src/rive_core/animation/nested_simple_animation.dart';
-import 'package:rive/src/rive_core/animation/nested_state_machine.dart';
-import 'package:rive/src/rive_core/backboard.dart';
-import 'package:rive/src/rive_core/bounds_provider.dart';
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/data_bind/data_bind.dart';
-import 'package:rive/src/rive_core/data_bind/data_context.dart';
-import 'package:rive/src/rive_core/nested_animation.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance.dart';
 import 'package:rive_common/math.dart';
 import 'package:rive_common/utilities.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/nested_artboard_base.dart';
+import 'package:rive_custom/src/rive_core/animation/nested_remap_animation.dart';
+import 'package:rive_custom/src/rive_core/animation/nested_simple_animation.dart';
+import 'package:rive_custom/src/rive_core/animation/nested_state_machine.dart';
+import 'package:rive_custom/src/rive_core/backboard.dart';
+import 'package:rive_custom/src/rive_core/bounds_provider.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/data_bind/data_bind.dart';
+import 'package:rive_custom/src/rive_core/data_bind/data_context.dart';
+import 'package:rive_custom/src/rive_core/nested_animation.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance.dart';
 
-export 'package:rive/src/generated/nested_artboard_base.dart';
+export 'package:rive_custom/src/generated/nested_artboard_base.dart';
 
 enum NestedArtboardFitType {
   // ignore: lines_longer_than_80_chars

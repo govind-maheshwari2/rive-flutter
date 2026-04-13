@@ -1,12 +1,12 @@
-import 'package:rive/src/generated/animation/blend_state_transition_base.dart';
-import 'package:rive/src/rive_core/animation/blend_animation.dart';
-import 'package:rive/src/rive_core/animation/blend_state_instance.dart';
-import 'package:rive/src/rive_core/animation/layer_state.dart';
-import 'package:rive/src/rive_core/animation/linear_animation.dart';
-import 'package:rive/src/rive_core/animation/linear_animation_instance.dart';
-import 'package:rive/src/rive_core/animation/state_instance.dart';
+import 'package:rive_custom/src/generated/animation/blend_state_transition_base.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_animation.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_state_instance.dart';
+import 'package:rive_custom/src/rive_core/animation/layer_state.dart';
+import 'package:rive_custom/src/rive_core/animation/linear_animation.dart';
+import 'package:rive_custom/src/rive_core/animation/linear_animation_instance.dart';
+import 'package:rive_custom/src/rive_core/animation/state_instance.dart';
 
-export 'package:rive/src/generated/animation/blend_state_transition_base.dart';
+export 'package:rive_custom/src/generated/animation/blend_state_transition_base.dart';
 
 class BlendStateTransition extends BlendStateTransitionBase {
   BlendAnimation? exitBlendAnimation;

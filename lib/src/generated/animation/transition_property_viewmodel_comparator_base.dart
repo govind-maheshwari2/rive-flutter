@@ -3,8 +3,8 @@
 // rt.
 // Do not modify manually.
 
-import 'package:rive/src/generated/animation/transition_comparator_base.dart';
-import 'package:rive/src/rive_core/animation/transition_property_comparator.dart';
+import 'package:rive_custom/src/generated/animation/transition_comparator_base.dart';
+import 'package:rive_custom/src/rive_core/animation/transition_property_comparator.dart';
 
 abstract class TransitionPropertyViewModelComparatorBase
     extends TransitionPropertyComparator {

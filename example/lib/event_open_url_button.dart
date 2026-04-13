@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 /// This example demonstrates how to open a URL from a Rive [RiveOpenUrlEvent]..

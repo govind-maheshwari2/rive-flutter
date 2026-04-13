@@ -1,5 +1,5 @@
-import 'package:rive/src/generated/animation/blend_animation_1d_base.dart';
-export 'package:rive/src/generated/animation/blend_animation_1d_base.dart';
+import 'package:rive_custom/src/generated/animation/blend_animation_1d_base.dart';
+export 'package:rive_custom/src/generated/animation/blend_animation_1d_base.dart';
 
 class BlendAnimation1D extends BlendAnimation1DBase {
   @override

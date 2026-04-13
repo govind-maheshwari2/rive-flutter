@@ -2,7 +2,7 @@
 // lib/src/generated/animation/transition_value_comparator_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/rive_core/animation/transition_comparator.dart';
+import 'package:rive_custom/src/rive_core/animation/transition_comparator.dart';
 
 abstract class TransitionValueComparatorBase extends TransitionComparator {
   static const int typeKey = 480;

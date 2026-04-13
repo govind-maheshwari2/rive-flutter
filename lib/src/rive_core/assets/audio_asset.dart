@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
-import 'package:rive/src/generated/assets/audio_asset_base.dart';
+import 'package:rive_custom/src/generated/assets/audio_asset_base.dart';
 import 'package:rive_common/rive_audio.dart';
 
-export 'package:rive/src/generated/assets/audio_asset_base.dart';
+export 'package:rive_custom/src/generated/assets/audio_asset_base.dart';
 
 enum AudioContainerFormat { unknown, wav, flac, mp3 }
 

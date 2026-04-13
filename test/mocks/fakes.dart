@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 
 class ArtboardFake extends Fake implements Artboard {
   bool _isPlaying = true;

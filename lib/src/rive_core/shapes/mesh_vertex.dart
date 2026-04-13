@@ -1,7 +1,7 @@
-import 'package:rive/src/generated/shapes/mesh_vertex_base.dart';
-import 'package:rive/src/rive_core/shapes/mesh.dart';
+import 'package:rive_custom/src/generated/shapes/mesh_vertex_base.dart';
+import 'package:rive_custom/src/rive_core/shapes/mesh.dart';
 
-export 'package:rive/src/generated/shapes/mesh_vertex_base.dart';
+export 'package:rive_custom/src/generated/shapes/mesh_vertex_base.dart';
 
 class MeshVertex extends MeshVertexBase {
   Mesh? get mesh => parent as Mesh?;

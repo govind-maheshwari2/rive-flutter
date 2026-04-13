@@ -1,10 +1,10 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/keyed_property_base.dart';
-import 'package:rive/src/rive_core/animation/interpolating_keyframe.dart';
-import 'package:rive/src/rive_core/animation/keyed_object.dart';
-import 'package:rive/src/rive_core/animation/keyframe.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/keyed_property_base.dart';
+import 'package:rive_custom/src/rive_core/animation/interpolating_keyframe.dart';
+import 'package:rive_custom/src/rive_core/animation/keyed_object.dart';
+import 'package:rive_custom/src/rive_core/animation/keyframe.dart';
 
-export 'package:rive/src/generated/animation/keyed_property_base.dart';
+export 'package:rive_custom/src/generated/animation/keyed_property_base.dart';
 
 abstract class KeyFrameInterface {
   int get frame;

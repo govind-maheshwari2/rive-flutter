@@ -2,9 +2,9 @@
 // lib/src/generated/animation/transition_value_color_comparator_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/transition_comparator_base.dart';
-import 'package:rive/src/rive_core/animation/transition_value_comparator.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/transition_comparator_base.dart';
+import 'package:rive_custom/src/rive_core/animation/transition_value_comparator.dart';
 
 abstract class TransitionValueColorComparatorBase
     extends TransitionValueComparator {

@@ -1,11 +1,11 @@
 import 'dart:math';
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/shapes/cubic_detached_vertex_base.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/shapes/cubic_detached_vertex_base.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/shapes/cubic_detached_vertex_base.dart';
+export 'package:rive_custom/src/generated/shapes/cubic_detached_vertex_base.dart';
 
 class CubicDetachedVertex extends CubicDetachedVertexBase {
   Vec2D? _inPoint;

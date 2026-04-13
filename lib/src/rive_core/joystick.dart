@@ -1,12 +1,12 @@
-import 'package:rive/src/generated/joystick_base.dart';
-import 'package:rive/src/rive_core/animation/linear_animation.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/container_component.dart';
-import 'package:rive/src/rive_core/transform_component.dart';
-import 'package:rive/src/rive_core/world_transform_component.dart';
 import 'package:rive_common/math.dart';
+import 'package:rive_custom/src/generated/joystick_base.dart';
+import 'package:rive_custom/src/rive_core/animation/linear_animation.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/container_component.dart';
+import 'package:rive_custom/src/rive_core/transform_component.dart';
+import 'package:rive_custom/src/rive_core/world_transform_component.dart';
 
-export 'package:rive/src/generated/joystick_base.dart';
+export 'package:rive_custom/src/generated/joystick_base.dart';
 
 class JoystickFlags {
   /// Whether to invert the application of the x axis.

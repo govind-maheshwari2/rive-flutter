@@ -2,8 +2,8 @@
 // lib/src/generated/animation/blend_animation_1d_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/blend_animation.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_animation.dart';
 
 abstract class BlendAnimation1DBase extends BlendAnimation {
   static const int typeKey = 75;

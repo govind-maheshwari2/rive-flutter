@@ -1,7 +1,7 @@
-import 'package:rive/src/generated/animation/entry_state_base.dart';
-import 'package:rive/src/rive_core/animation/state_instance.dart';
+import 'package:rive_custom/src/generated/animation/entry_state_base.dart';
+import 'package:rive_custom/src/rive_core/animation/state_instance.dart';
 
-export 'package:rive/src/generated/animation/entry_state_base.dart';
+export 'package:rive_custom/src/generated/animation/entry_state_base.dart';
 
 class EntryState extends EntryStateBase {
   @override

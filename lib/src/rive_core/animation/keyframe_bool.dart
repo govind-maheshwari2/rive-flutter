@@ -1,6 +1,6 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/keyframe_bool_base.dart';
-export 'package:rive/src/generated/animation/keyframe_bool_base.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/keyframe_bool_base.dart';
+export 'package:rive_custom/src/generated/animation/keyframe_bool_base.dart';
 
 /// KeyFrame for animating bool properties.
 class KeyFrameBool extends KeyFrameBoolBase {

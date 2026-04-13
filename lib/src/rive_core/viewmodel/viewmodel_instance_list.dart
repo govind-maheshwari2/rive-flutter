@@ -1,7 +1,7 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/viewmodel/viewmodel_instance_list_base.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_list_item.dart';
-export 'package:rive/src/generated/viewmodel/viewmodel_instance_list_base.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/viewmodel/viewmodel_instance_list_base.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_list_item.dart';
+export 'package:rive_custom/src/generated/viewmodel/viewmodel_instance_list_base.dart';
 
 class ViewModelInstanceList extends ViewModelInstanceListBase {
   ViewModelListItems children = ViewModelListItems();

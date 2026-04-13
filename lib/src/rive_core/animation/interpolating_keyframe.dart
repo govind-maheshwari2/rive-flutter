@@ -1,12 +1,12 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/interpolating_keyframe_base.dart';
-import 'package:rive/src/rive_core/animation/cubic_interpolator.dart';
-import 'package:rive/src/rive_core/animation/cubic_value_interpolator.dart';
-import 'package:rive/src/rive_core/animation/interpolator.dart';
-import 'package:rive/src/rive_core/animation/keyframe_interpolation.dart';
-import 'package:rive/src/rive_core/enum_helper.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/interpolating_keyframe_base.dart';
+import 'package:rive_custom/src/rive_core/animation/cubic_interpolator.dart';
+import 'package:rive_custom/src/rive_core/animation/cubic_value_interpolator.dart';
+import 'package:rive_custom/src/rive_core/animation/interpolator.dart';
+import 'package:rive_custom/src/rive_core/animation/keyframe_interpolation.dart';
+import 'package:rive_custom/src/rive_core/enum_helper.dart';
 
-export 'package:rive/src/generated/animation/interpolating_keyframe_base.dart';
+export 'package:rive_custom/src/generated/animation/interpolating_keyframe_base.dart';
 
 abstract class InterpolatingKeyFrame extends InterpolatingKeyFrameBase {
   @override

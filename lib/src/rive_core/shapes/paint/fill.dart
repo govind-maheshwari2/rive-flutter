@@ -1,10 +1,10 @@
 import 'dart:ui';
 
-import 'package:rive/src/generated/shapes/paint/fill_base.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/shapes/shape_paint_container.dart';
+import 'package:rive_custom/src/generated/shapes/paint/fill_base.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/shapes/shape_paint_container.dart';
 
-export 'package:rive/src/generated/shapes/paint/fill_base.dart';
+export 'package:rive_custom/src/generated/shapes/paint/fill_base.dart';
 
 /// A fill Shape painter.
 class Fill extends FillBase {

@@ -1,7 +1,7 @@
-import 'package:rive/src/extensions.dart';
-import 'package:rive/src/rive_core/animation/linear_animation_instance.dart';
-import 'package:rive/src/rive_core/rive_animation_controller.dart';
-import 'package:rive/src/runtime_artboard.dart';
+import 'package:rive_custom/src/extensions.dart';
+import 'package:rive_custom/src/rive_core/animation/linear_animation_instance.dart';
+import 'package:rive_custom/src/rive_core/rive_animation_controller.dart';
+import 'package:rive_custom/src/runtime_artboard.dart';
 
 /// A simple [RiveAnimationController] that plays back a LinearAnimation defined
 /// by an artist. All playback parameters (looping, speed, keyframes) are artist

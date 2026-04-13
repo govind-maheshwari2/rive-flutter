@@ -1,5 +1,5 @@
 import 'dart:collection';
-import 'package:rive/src/rive_core/animation/state_machine_component.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_component.dart';
 
 class StateMachineComponents<T extends StateMachineComponent>
     extends ListBase<T> {

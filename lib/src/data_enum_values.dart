@@ -1,6 +1,6 @@
 import 'dart:collection';
 
-import 'package:rive/src/rive_core/viewmodel/data_enum_value.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/data_enum_value.dart';
 
 class DataEnumValues<T extends DataEnumValue> extends ListBase<T> {
   final List<T?> _values = [];

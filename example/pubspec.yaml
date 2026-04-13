@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  rive:
+  rive_custom:
     path: ../
   http:
   url_launcher: ^6.3.1

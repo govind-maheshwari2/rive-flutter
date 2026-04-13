@@ -2,10 +2,10 @@ import 'dart:async';
 import 'dart:ui' as ui;
 
 import 'package:flutter/foundation.dart';
-import 'package:rive/src/generated/assets/image_asset_base.dart';
-import 'package:rive/src/rive_core/shapes/image.dart';
+import 'package:rive_custom/src/generated/assets/image_asset_base.dart';
+import 'package:rive_custom/src/rive_core/shapes/image.dart';
 
-export 'package:rive/src/generated/assets/image_asset_base.dart';
+export 'package:rive_custom/src/generated/assets/image_asset_base.dart';
 
 class ImageAsset extends ImageAssetBase {
   ui.Image? _image;

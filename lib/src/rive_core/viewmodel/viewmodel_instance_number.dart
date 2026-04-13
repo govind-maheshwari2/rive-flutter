@@ -1,7 +1,7 @@
-import 'package:rive/src/generated/viewmodel/viewmodel_instance_number_base.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/generated/viewmodel/viewmodel_instance_number_base.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
 
-export 'package:rive/src/generated/viewmodel/viewmodel_instance_number_base.dart';
+export 'package:rive_custom/src/generated/viewmodel/viewmodel_instance_number_base.dart';
 
 class ViewModelInstanceNumber extends ViewModelInstanceNumberBase {
   @override

@@ -2,9 +2,9 @@
 // lib/src/generated/viewmodel/viewmodel_instance_string_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/viewmodel/viewmodel_instance_value_base.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_value.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/viewmodel/viewmodel_instance_value_base.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_value.dart';
 
 abstract class ViewModelInstanceStringBase extends ViewModelInstanceValue {
   static const int typeKey = 433;

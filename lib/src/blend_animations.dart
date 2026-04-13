@@ -1,6 +1,6 @@
 import 'dart:collection';
 
-import 'package:rive/src/rive_core/animation/blend_animation.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_animation.dart';
 
 class BlendAnimations<T extends BlendAnimation> extends ListBase<T> {
   final List<T?> _values = [];

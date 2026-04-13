@@ -1,11 +1,11 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/listener_input_change_base.dart';
-import 'package:rive/src/rive_core/animation/nested_input.dart';
-import 'package:rive/src/rive_core/animation/state_machine.dart';
-import 'package:rive/src/rive_core/animation/state_machine_input.dart';
-import 'package:rive/src/rive_core/state_machine_controller.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/listener_input_change_base.dart';
+import 'package:rive_custom/src/rive_core/animation/nested_input.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_input.dart';
+import 'package:rive_custom/src/rive_core/state_machine_controller.dart';
 
-export 'package:rive/src/generated/animation/listener_input_change_base.dart';
+export 'package:rive_custom/src/generated/animation/listener_input_change_base.dart';
 
 abstract class ListenerInputChange extends ListenerInputChangeBase {
   StateMachineInput _input = StateMachineInput.unknown;

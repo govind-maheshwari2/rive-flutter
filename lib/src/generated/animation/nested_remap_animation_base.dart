@@ -2,11 +2,11 @@
 // lib/src/generated/animation/nested_remap_animation_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/component_base.dart';
-import 'package:rive/src/generated/container_component_base.dart';
-import 'package:rive/src/generated/nested_animation_base.dart';
-import 'package:rive/src/rive_core/animation/nested_linear_animation.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/component_base.dart';
+import 'package:rive_custom/src/generated/container_component_base.dart';
+import 'package:rive_custom/src/generated/nested_animation_base.dart';
+import 'package:rive_custom/src/rive_core/animation/nested_linear_animation.dart';
 
 abstract class NestedRemapAnimationBase extends NestedLinearAnimation {
   static const int typeKey = 98;

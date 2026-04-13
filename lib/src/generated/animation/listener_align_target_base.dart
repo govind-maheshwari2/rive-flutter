@@ -2,8 +2,8 @@
 // lib/src/generated/animation/listener_align_target_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/listener_action.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/listener_action.dart';
 
 abstract class ListenerAlignTargetBase extends ListenerAction {
   static const int typeKey = 126;

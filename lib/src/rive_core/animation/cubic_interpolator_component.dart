@@ -1,10 +1,10 @@
-import 'package:rive/src/generated/animation/cubic_interpolator_component_base.dart';
-import 'package:rive/src/rive_core/animation/cubic_ease_interpolator.dart';
-import 'package:rive/src/rive_core/animation/cubic_interpolator.dart';
-import 'package:rive/src/rive_core/animation/interpolator.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/generated/animation/cubic_interpolator_component_base.dart';
+import 'package:rive_custom/src/rive_core/animation/cubic_ease_interpolator.dart';
+import 'package:rive_custom/src/rive_core/animation/cubic_interpolator.dart';
+import 'package:rive_custom/src/rive_core/animation/interpolator.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
 
-export 'package:rive/src/generated/animation/cubic_interpolator_component_base.dart';
+export 'package:rive_custom/src/generated/animation/cubic_interpolator_component_base.dart';
 
 class CubicInterpolatorComponent extends CubicInterpolatorComponentBase
     implements Interpolator, CubicInterface {

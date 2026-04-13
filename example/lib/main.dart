@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 
 import 'package:rive_example/artboard_nested_inputs.dart';
 import 'package:rive_example/custom_asset_loading.dart';

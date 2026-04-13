@@ -1,9 +1,9 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/blend_animation_direct_base.dart';
-import 'package:rive/src/rive_core/animation/state_machine.dart';
-import 'package:rive/src/rive_core/animation/state_machine_number.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/blend_animation_direct_base.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_number.dart';
 
-export 'package:rive/src/generated/animation/blend_animation_direct_base.dart';
+export 'package:rive_custom/src/generated/animation/blend_animation_direct_base.dart';
 
 enum DirectBlendSource { inputId, mixValue }
 

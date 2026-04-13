@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 
 /// An example showing how to drive two boolean state machine inputs.
 class ExampleStateMachine extends StatefulWidget {

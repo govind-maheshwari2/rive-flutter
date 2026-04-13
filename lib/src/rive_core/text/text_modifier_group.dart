@@ -1,17 +1,17 @@
 import 'dart:collection';
 
 import 'package:flutter/foundation.dart';
-import 'package:rive/src/generated/text/text_modifier_group_base.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/text/text.dart';
-import 'package:rive/src/rive_core/text/text_modifier.dart';
-import 'package:rive/src/rive_core/text/text_modifier_range.dart';
-import 'package:rive/src/rive_core/text/text_shape_modifier.dart';
-import 'package:rive/src/rive_core/text/text_variation_modifier.dart';
+import 'package:rive_custom/src/generated/text/text_modifier_group_base.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/text/text.dart';
+import 'package:rive_custom/src/rive_core/text/text_modifier.dart';
+import 'package:rive_custom/src/rive_core/text/text_modifier_range.dart';
+import 'package:rive_custom/src/rive_core/text/text_shape_modifier.dart';
+import 'package:rive_custom/src/rive_core/text/text_variation_modifier.dart';
 import 'package:rive_common/math.dart';
 import 'package:rive_common/rive_text.dart';
 
-export 'package:rive/src/generated/text/text_modifier_group_base.dart';
+export 'package:rive_custom/src/generated/text/text_modifier_group_base.dart';
 
 class TextModifierFlags {
   static const int modifyOrigin = 1 << 0;

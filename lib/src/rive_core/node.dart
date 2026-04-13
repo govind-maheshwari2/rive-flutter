@@ -1,7 +1,7 @@
-import 'package:rive/src/generated/node_base.dart';
 import 'package:rive_common/math.dart';
+import 'package:rive_custom/src/generated/node_base.dart';
 
-export 'package:rive/src/generated/node_base.dart';
+export 'package:rive_custom/src/generated/node_base.dart';
 
 class _UnknownNode extends Node {}
 

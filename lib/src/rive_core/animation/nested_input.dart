@@ -1,9 +1,9 @@
-import 'package:rive/src/generated/animation/nested_input_base.dart';
-import 'package:rive/src/rive_core/animation/nested_state_machine.dart';
-import 'package:rive/src/rive_core/container_component.dart';
-import 'package:rive/src/rive_core/nested_artboard.dart';
+import 'package:rive_custom/src/generated/animation/nested_input_base.dart';
+import 'package:rive_custom/src/rive_core/animation/nested_state_machine.dart';
+import 'package:rive_custom/src/rive_core/container_component.dart';
+import 'package:rive_custom/src/rive_core/nested_artboard.dart';
 
-export 'package:rive/src/generated/animation/nested_input_base.dart';
+export 'package:rive_custom/src/generated/animation/nested_input_base.dart';
 
 abstract class NestedInput extends NestedInputBase {
   @override

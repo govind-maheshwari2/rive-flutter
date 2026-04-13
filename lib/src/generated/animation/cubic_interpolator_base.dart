@@ -2,8 +2,8 @@
 // lib/src/generated/animation/cubic_interpolator_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/keyframe_interpolator.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/keyframe_interpolator.dart';
 
 abstract class CubicInterpolatorBase extends KeyFrameInterpolator {
   static const int typeKey = 139;

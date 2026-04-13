@@ -1,5 +1,5 @@
 import 'package:mocktail/mocktail.dart';
-import 'package:rive/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
 export 'fakes.dart';
 
 // ignore: one_member_abstracts

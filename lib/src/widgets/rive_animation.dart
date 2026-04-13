@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 
 /// Specifies whether a source is from an asset bundle or http
 enum _Source {
@@ -183,7 +183,7 @@ class RiveAnimation extends StatefulWidget {
   /// return RiveAnimation.direct(riveFile);
   /// ```
   const RiveAnimation.direct(
-    RiveFile this.file, {
+    this.file, {
     this.artboard,
     this.animations = const [],
     this.stateMachines = const [],

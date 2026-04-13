@@ -1,15 +1,15 @@
 import 'dart:typed_data';
 
-import 'package:rive/src/generated/bones/skin_base.dart';
-import 'package:rive/src/rive_core/bones/bone.dart';
-import 'package:rive/src/rive_core/bones/skinnable.dart';
-import 'package:rive/src/rive_core/bones/tendon.dart';
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/shapes/vertex.dart';
+import 'package:rive_custom/src/generated/bones/skin_base.dart';
+import 'package:rive_custom/src/rive_core/bones/bone.dart';
+import 'package:rive_custom/src/rive_core/bones/skinnable.dart';
+import 'package:rive_custom/src/rive_core/bones/tendon.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/shapes/vertex.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/bones/skin_base.dart';
+export 'package:rive_custom/src/generated/bones/skin_base.dart';
 
 /// Represents a skin deformation of either a Path or an Image Mesh connected to
 /// a set of bones.

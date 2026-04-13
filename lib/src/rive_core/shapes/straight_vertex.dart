@@ -1,10 +1,10 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/shapes/straight_vertex_base.dart';
-import 'package:rive/src/rive_core/bones/weight.dart';
-import 'package:rive/src/rive_core/component.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/shapes/straight_vertex_base.dart';
+import 'package:rive_custom/src/rive_core/bones/weight.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/shapes/straight_vertex_base.dart';
+export 'package:rive_custom/src/generated/shapes/straight_vertex_base.dart';
 
 class StraightVertex extends StraightVertexBase {
   /// Nullable because not all vertices have weight, they only have it when the

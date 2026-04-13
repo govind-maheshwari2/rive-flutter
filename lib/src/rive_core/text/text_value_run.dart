@@ -1,10 +1,10 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/text/text_value_run_base.dart';
-import 'package:rive/src/rive_core/container_component.dart';
-import 'package:rive/src/rive_core/text/text.dart';
-import 'package:rive/src/rive_core/text/text_style.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/text/text_value_run_base.dart';
+import 'package:rive_custom/src/rive_core/container_component.dart';
+import 'package:rive_custom/src/rive_core/text/text.dart';
+import 'package:rive_custom/src/rive_core/text/text_style.dart';
 
-export 'package:rive/src/generated/text/text_value_run_base.dart';
+export 'package:rive_custom/src/generated/text/text_value_run_base.dart';
 
 class TextValueRun extends TextValueRunBase {
   Text? get textComponent => parent as Text?;

@@ -1,7 +1,7 @@
 // Core automatically generated lib/src/generated/custom_property_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
 
 abstract class CustomPropertyBase extends Component {
   static const int typeKey = 167;

@@ -1,8 +1,8 @@
-import 'package:rive/src/generated/animation/transition_viewmodel_condition_base.dart';
-import 'package:rive/src/rive_core/animation/transition_comparator.dart';
-import 'package:rive/src/rive_core/animation/transition_condition.dart';
+import 'package:rive_custom/src/generated/animation/transition_viewmodel_condition_base.dart';
+import 'package:rive_custom/src/rive_core/animation/transition_comparator.dart';
+import 'package:rive_custom/src/rive_core/animation/transition_condition.dart';
 
-export 'package:rive/src/generated/animation/transition_viewmodel_condition_base.dart';
+export 'package:rive_custom/src/generated/animation/transition_viewmodel_condition_base.dart';
 
 class TransitionViewModelCondition extends TransitionViewModelConditionBase {
   TransitionConditionOp get op => TransitionConditionOp.values[opValue];

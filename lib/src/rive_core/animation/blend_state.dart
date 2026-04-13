@@ -1,8 +1,8 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/blend_state_base.dart';
-import 'package:rive/src/rive_core/animation/blend_animation.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/blend_state_base.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_animation.dart';
 
-export 'package:rive/src/generated/animation/blend_state_base.dart';
+export 'package:rive_custom/src/generated/animation/blend_state_base.dart';
 
 //
 abstract class BlendState<T extends BlendAnimation> extends BlendStateBase {

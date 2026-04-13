@@ -2,7 +2,7 @@
 // lib/src/generated/viewmodel/viewmodel_property_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/rive_core/viewmodel/viewmodel_component.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_component.dart';
 
 abstract class ViewModelPropertyBase extends ViewModelComponent {
   static const int typeKey = 430;

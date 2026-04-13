@@ -1,11 +1,11 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/audio_event_base.dart';
-import 'package:rive/src/rive_core/artboard.dart';
-import 'package:rive/src/rive_core/assets/audio_asset.dart';
-import 'package:rive/src/rive_core/assets/file_asset.dart';
-import 'package:rive/src/rive_core/audio_player.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/audio_event_base.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/rive_core/assets/audio_asset.dart';
+import 'package:rive_custom/src/rive_core/assets/file_asset.dart';
+import 'package:rive_custom/src/rive_core/audio_player.dart';
 
-export 'package:rive/src/generated/audio_event_base.dart';
+export 'package:rive_custom/src/generated/audio_event_base.dart';
 
 class AudioEvent extends AudioEventBase with FileAssetReferencer<AudioAsset> {
   @override

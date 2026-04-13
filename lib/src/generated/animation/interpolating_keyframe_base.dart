@@ -2,8 +2,8 @@
 // lib/src/generated/animation/interpolating_keyframe_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/keyframe.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/keyframe.dart';
 
 abstract class InterpolatingKeyFrameBase extends KeyFrame {
   static const int typeKey = 170;

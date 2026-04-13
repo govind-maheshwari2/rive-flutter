@@ -1,27 +1,27 @@
 import 'dart:collection';
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/state_transition_base.dart';
-import 'package:rive/src/rive_core/animation/animation_state.dart';
-import 'package:rive/src/rive_core/animation/animation_state_instance.dart';
-import 'package:rive/src/rive_core/animation/cubic_interpolator.dart';
-import 'package:rive/src/rive_core/animation/entry_state.dart';
-import 'package:rive/src/rive_core/animation/interpolator.dart';
-import 'package:rive/src/rive_core/animation/keyframe_interpolation.dart';
-import 'package:rive/src/rive_core/animation/layer_state.dart';
-import 'package:rive/src/rive_core/animation/linear_animation.dart';
-import 'package:rive/src/rive_core/animation/linear_animation_instance.dart';
-import 'package:rive/src/rive_core/animation/loop.dart';
-import 'package:rive/src/rive_core/animation/state_instance.dart';
-import 'package:rive/src/rive_core/animation/transition_condition.dart';
-import 'package:rive/src/rive_core/animation/transition_input_condition.dart';
-import 'package:rive/src/rive_core/animation/transition_trigger_condition.dart';
-import 'package:rive/src/rive_core/animation/transition_viewmodel_condition.dart';
-import 'package:rive/src/rive_core/enum_helper.dart';
-import 'package:rive/src/rive_core/state_transition_flags.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/state_transition_base.dart';
+import 'package:rive_custom/src/rive_core/animation/animation_state.dart';
+import 'package:rive_custom/src/rive_core/animation/animation_state_instance.dart';
+import 'package:rive_custom/src/rive_core/animation/cubic_interpolator.dart';
+import 'package:rive_custom/src/rive_core/animation/entry_state.dart';
+import 'package:rive_custom/src/rive_core/animation/interpolator.dart';
+import 'package:rive_custom/src/rive_core/animation/keyframe_interpolation.dart';
+import 'package:rive_custom/src/rive_core/animation/layer_state.dart';
+import 'package:rive_custom/src/rive_core/animation/linear_animation.dart';
+import 'package:rive_custom/src/rive_core/animation/linear_animation_instance.dart';
+import 'package:rive_custom/src/rive_core/animation/loop.dart';
+import 'package:rive_custom/src/rive_core/animation/state_instance.dart';
+import 'package:rive_custom/src/rive_core/animation/transition_condition.dart';
+import 'package:rive_custom/src/rive_core/animation/transition_input_condition.dart';
+import 'package:rive_custom/src/rive_core/animation/transition_trigger_condition.dart';
+import 'package:rive_custom/src/rive_core/animation/transition_viewmodel_condition.dart';
+import 'package:rive_custom/src/rive_core/enum_helper.dart';
+import 'package:rive_custom/src/rive_core/state_transition_flags.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance.dart';
 
-export 'package:rive/src/generated/animation/state_transition_base.dart';
+export 'package:rive_custom/src/generated/animation/state_transition_base.dart';
 
 enum AllowTransition { no, waitingForExit, yes }
 

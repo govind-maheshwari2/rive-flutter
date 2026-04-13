@@ -1,17 +1,17 @@
 import 'dart:ui' as ui;
 
 import 'package:collection/collection.dart';
-import 'package:rive/src/generated/shapes/shape_base.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/shapes/paint/linear_gradient.dart' as core;
-import 'package:rive/src/rive_core/shapes/paint/shape_paint_mutator.dart';
-import 'package:rive/src/rive_core/shapes/paint/stroke.dart';
-import 'package:rive/src/rive_core/shapes/path.dart';
-import 'package:rive/src/rive_core/shapes/path_composer.dart';
-import 'package:rive/src/rive_core/shapes/shape_paint_container.dart';
+import 'package:rive_custom/src/generated/shapes/shape_base.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/shapes/paint/linear_gradient.dart' as core;
+import 'package:rive_custom/src/rive_core/shapes/paint/shape_paint_mutator.dart';
+import 'package:rive_custom/src/rive_core/shapes/paint/stroke.dart';
+import 'package:rive_custom/src/rive_core/shapes/path.dart';
+import 'package:rive_custom/src/rive_core/shapes/path_composer.dart';
+import 'package:rive_custom/src/rive_core/shapes/shape_paint_container.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/shapes/shape_base.dart';
+export 'package:rive_custom/src/generated/shapes/shape_base.dart';
 
 class Shape extends ShapeBase with ShapePaintContainer {
   final Set<Path> paths = {};

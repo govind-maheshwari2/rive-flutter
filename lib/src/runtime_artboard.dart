@@ -1,8 +1,8 @@
 import 'package:flutter/scheduler.dart';
-import 'package:rive/rive.dart';
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/notifier.dart';
+import 'package:rive_custom/rive.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/notifier.dart';
 
 /// Adds getters for linear animations and state machines
 extension RuntimeArtboardGetters on RuntimeArtboard {

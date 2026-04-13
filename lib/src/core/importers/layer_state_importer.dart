@@ -1,9 +1,9 @@
-import 'package:rive/src/core/importers/artboard_import_stack_object.dart';
-import 'package:rive/src/rive_core/animation/blend_animation.dart';
-import 'package:rive/src/rive_core/animation/blend_state.dart';
-import 'package:rive/src/rive_core/animation/blend_state_transition.dart';
-import 'package:rive/src/rive_core/animation/layer_state.dart';
-import 'package:rive/src/rive_core/animation/state_transition.dart';
+import 'package:rive_custom/src/core/importers/artboard_import_stack_object.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_animation.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_state.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_state_transition.dart';
+import 'package:rive_custom/src/rive_core/animation/layer_state.dart';
+import 'package:rive_custom/src/rive_core/animation/state_transition.dart';
 
 class LayerStateImporter extends ArtboardImportStackObject {
   final LayerState state;

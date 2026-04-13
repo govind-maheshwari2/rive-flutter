@@ -1,7 +1,7 @@
-import 'package:rive/src/rive_core/bones/skin.dart';
-import 'package:rive/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/bones/skin.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
 
-import 'package:rive/src/rive_core/shapes/vertex.dart';
+import 'package:rive_custom/src/rive_core/shapes/vertex.dart';
 
 /// An abstraction to give a common interface to any container component that
 /// can contain a skin to bind bones to.

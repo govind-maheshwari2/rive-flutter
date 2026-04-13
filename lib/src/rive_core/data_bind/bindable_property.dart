@@ -1,6 +1,6 @@
-import 'package:rive/src/generated/data_bind/bindable_property_base.dart';
+import 'package:rive_custom/src/generated/data_bind/bindable_property_base.dart';
 
-export 'package:rive/src/generated/data_bind/bindable_property_base.dart';
+export 'package:rive_custom/src/generated/data_bind/bindable_property_base.dart';
 
 enum PropertyType {
   number,

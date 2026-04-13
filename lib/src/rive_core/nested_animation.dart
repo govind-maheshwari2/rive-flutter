@@ -1,8 +1,8 @@
-import 'package:rive/src/generated/nested_animation_base.dart';
-import 'package:rive/src/rive_core/animation/animation.dart';
-import 'package:rive/src/rive_core/nested_artboard.dart';
+import 'package:rive_custom/src/generated/nested_animation_base.dart';
+import 'package:rive_custom/src/rive_core/animation/animation.dart';
+import 'package:rive_custom/src/rive_core/nested_artboard.dart';
 
-export 'package:rive/src/generated/nested_animation_base.dart';
+export 'package:rive_custom/src/generated/nested_animation_base.dart';
 
 abstract class NestedAnimation<T extends Animation>
     extends NestedAnimationBase {

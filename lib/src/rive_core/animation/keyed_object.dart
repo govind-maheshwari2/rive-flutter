@@ -1,12 +1,12 @@
 import 'dart:collection';
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/keyed_object_base.dart';
-import 'package:rive/src/rive_core/animation/keyed_property.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/keyed_object_base.dart';
+import 'package:rive_custom/src/rive_core/animation/keyed_property.dart';
 
 import 'linear_animation.dart';
 
-export 'package:rive/src/generated/animation/keyed_object_base.dart';
+export 'package:rive_custom/src/generated/animation/keyed_object_base.dart';
 
 // ignore: one_member_abstracts
 abstract class KeyedCallbackReporter {

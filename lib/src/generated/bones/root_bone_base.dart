@@ -1,13 +1,13 @@
 // Core automatically generated lib/src/generated/bones/root_bone_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/bones/skeletal_component_base.dart';
-import 'package:rive/src/generated/component_base.dart';
-import 'package:rive/src/generated/container_component_base.dart';
-import 'package:rive/src/generated/transform_component_base.dart';
-import 'package:rive/src/generated/world_transform_component_base.dart';
-import 'package:rive/src/rive_core/bones/bone.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/bones/skeletal_component_base.dart';
+import 'package:rive_custom/src/generated/component_base.dart';
+import 'package:rive_custom/src/generated/container_component_base.dart';
+import 'package:rive_custom/src/generated/transform_component_base.dart';
+import 'package:rive_custom/src/generated/world_transform_component_base.dart';
+import 'package:rive_custom/src/rive_core/bones/bone.dart';
 
 abstract class RootBoneBase extends Bone {
   static const int typeKey = 41;

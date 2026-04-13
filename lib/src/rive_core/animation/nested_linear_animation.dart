@@ -1,7 +1,7 @@
-import 'package:rive/src/generated/animation/nested_linear_animation_base.dart';
-import 'package:rive/src/rive_core/nested_artboard.dart';
+import 'package:rive_custom/src/generated/animation/nested_linear_animation_base.dart';
+import 'package:rive_custom/src/rive_core/nested_artboard.dart';
 
-export 'package:rive/src/generated/animation/nested_linear_animation_base.dart';
+export 'package:rive_custom/src/generated/animation/nested_linear_animation_base.dart';
 
 /// Need this abstraction to not depend on package:rive in rive_core.
 // ignore: one_member_abstracts

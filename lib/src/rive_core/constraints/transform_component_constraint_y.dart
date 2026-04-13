@@ -1,5 +1,5 @@
-import 'package:rive/src/generated/constraints/transform_component_constraint_y_base.dart';
-export 'package:rive/src/generated/constraints/transform_component_constraint_y_base.dart';
+import 'package:rive_custom/src/generated/constraints/transform_component_constraint_y_base.dart';
+export 'package:rive_custom/src/generated/constraints/transform_component_constraint_y_base.dart';
 
 abstract class TransformComponentConstraintY
     extends TransformComponentConstraintYBase {

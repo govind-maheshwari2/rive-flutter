@@ -1,18 +1,18 @@
 import 'dart:math';
 
 import 'package:collection/collection.dart';
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/text/text_modifier_range_base.dart';
-import 'package:rive/src/rive_core/animation/cubic_interpolator_component.dart';
-import 'package:rive/src/rive_core/animation/interpolator.dart';
-import 'package:rive/src/rive_core/component.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/enum_helper.dart';
-import 'package:rive/src/rive_core/text/text_modifier_group.dart';
-import 'package:rive/src/rive_core/text/text_value_run.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/text/text_modifier_range_base.dart';
+import 'package:rive_custom/src/rive_core/animation/cubic_interpolator_component.dart';
+import 'package:rive_custom/src/rive_core/animation/interpolator.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/enum_helper.dart';
+import 'package:rive_custom/src/rive_core/text/text_modifier_group.dart';
+import 'package:rive_custom/src/rive_core/text/text_value_run.dart';
 import 'package:rive_common/rive_text.dart';
 
-export 'package:rive/src/generated/text/text_modifier_range_base.dart';
+export 'package:rive_custom/src/generated/text/text_modifier_range_base.dart';
 
 enum TextRangeUnits { characters, charactersExcludingSpaces, words, lines }
 

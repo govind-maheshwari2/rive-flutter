@@ -2,10 +2,10 @@
 // lib/src/generated/text/text_variation_modifier_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/component_base.dart';
-import 'package:rive/src/generated/text/text_modifier_base.dart';
-import 'package:rive/src/rive_core/text/text_shape_modifier.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/component_base.dart';
+import 'package:rive_custom/src/generated/text/text_modifier_base.dart';
+import 'package:rive_custom/src/rive_core/text/text_shape_modifier.dart';
 
 abstract class TextVariationModifierBase extends TextShapeModifier {
   static const int typeKey = 162;

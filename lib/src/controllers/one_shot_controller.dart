@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:rive/src/controllers/simple_controller.dart';
+import 'package:rive_custom/src/controllers/simple_controller.dart';
 
 /// This allows a value of type T or T?
 /// to be treated as a value of type T?.

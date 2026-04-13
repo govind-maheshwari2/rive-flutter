@@ -2,7 +2,7 @@
 /// animation
 
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 
 class SpeedyAnimation extends StatelessWidget {
   const SpeedyAnimation({Key? key}) : super(key: key);

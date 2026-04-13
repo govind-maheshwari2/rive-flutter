@@ -1,8 +1,8 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/animation_state.dart';
-import 'package:rive/src/rive_core/animation/linear_animation_instance.dart';
-import 'package:rive/src/rive_core/animation/state_instance.dart';
-import 'package:rive/src/rive_core/state_machine_controller.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/animation_state.dart';
+import 'package:rive_custom/src/rive_core/animation/linear_animation_instance.dart';
+import 'package:rive_custom/src/rive_core/animation/state_instance.dart';
+import 'package:rive_custom/src/rive_core/state_machine_controller.dart';
 
 /// Simple wrapper around [LinearAnimationInstance] making it compatible with
 /// the [StateMachine]'s [StateInstance] interface.

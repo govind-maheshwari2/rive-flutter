@@ -1,6 +1,6 @@
-import 'package:rive/src/generated/data_bind/bindable_property_string_base.dart';
+import 'package:rive_custom/src/generated/data_bind/bindable_property_string_base.dart';
 
-export 'package:rive/src/generated/data_bind/bindable_property_string_base.dart';
+export 'package:rive_custom/src/generated/data_bind/bindable_property_string_base.dart';
 
 class BindablePropertyString extends BindablePropertyStringBase {
   @override

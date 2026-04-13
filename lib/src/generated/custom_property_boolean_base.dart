@@ -2,9 +2,9 @@
 // lib/src/generated/custom_property_boolean_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/component_base.dart';
-import 'package:rive/src/rive_core/custom_property.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/component_base.dart';
+import 'package:rive_custom/src/rive_core/custom_property.dart';
 
 abstract class CustomPropertyBooleanBase extends CustomProperty {
   static const int typeKey = 129;

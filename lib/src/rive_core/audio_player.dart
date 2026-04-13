@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:rive/src/rive_core/assets/audio_asset.dart';
+import 'package:rive_custom/src/rive_core/assets/audio_asset.dart';
 import 'package:rive_common/rive_audio.dart';
 
 class AudioPlayer {

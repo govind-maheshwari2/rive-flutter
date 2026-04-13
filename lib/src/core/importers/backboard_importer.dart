@@ -1,11 +1,11 @@
 import 'dart:collection';
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/artboard.dart';
-import 'package:rive/src/rive_core/assets/file_asset.dart';
-import 'package:rive/src/rive_core/backboard.dart';
-import 'package:rive/src/rive_core/nested_artboard.dart';
-import 'package:rive/src/runtime_nested_artboard.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/rive_core/assets/file_asset.dart';
+import 'package:rive_custom/src/rive_core/backboard.dart';
+import 'package:rive_custom/src/rive_core/nested_artboard.dart';
+import 'package:rive_custom/src/runtime_nested_artboard.dart';
 
 class BackboardImporter extends ImportStackObject {
   final Backboard backboard;

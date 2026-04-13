@@ -2,13 +2,13 @@
 // lib/src/generated/shapes/parametric_path_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/component_base.dart';
-import 'package:rive/src/generated/container_component_base.dart';
-import 'package:rive/src/generated/node_base.dart';
-import 'package:rive/src/generated/transform_component_base.dart';
-import 'package:rive/src/generated/world_transform_component_base.dart';
-import 'package:rive/src/rive_core/shapes/path.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/component_base.dart';
+import 'package:rive_custom/src/generated/container_component_base.dart';
+import 'package:rive_custom/src/generated/node_base.dart';
+import 'package:rive_custom/src/generated/transform_component_base.dart';
+import 'package:rive_custom/src/generated/world_transform_component_base.dart';
+import 'package:rive_custom/src/rive_core/shapes/path.dart';
 
 abstract class ParametricPathBase extends Path {
   static const int typeKey = 15;

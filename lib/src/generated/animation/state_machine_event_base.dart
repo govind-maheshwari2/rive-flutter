@@ -2,7 +2,7 @@
 /// lib/src/generated/animation/state_machine_event_base.dart.
 /// Do not modify manually.
 
-import 'package:rive/src/rive_core/animation/state_machine_component.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_component.dart';
 
 abstract class StateMachineEventBase extends StateMachineComponent {
   static const int typeKey = 114;

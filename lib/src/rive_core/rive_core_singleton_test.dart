@@ -1,4 +1,4 @@
-import 'package:rive/src/rive_core/animation/linear_animation.dart';
+import 'package:rive_custom/src/rive_core/animation/linear_animation.dart';
 
 class RiveCoreSingletonTest {
   static final RiveCoreSingletonTest _instance =

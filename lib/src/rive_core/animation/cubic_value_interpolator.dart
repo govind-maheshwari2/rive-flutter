@@ -1,8 +1,8 @@
-import 'package:rive/src/generated/animation/cubic_value_interpolator_base.dart';
-import 'package:rive/src/rive_core/animation/cubic_interpolator.dart';
-import 'package:rive/src/rive_core/animation/interpolator.dart';
+import 'package:rive_custom/src/generated/animation/cubic_value_interpolator_base.dart';
+import 'package:rive_custom/src/rive_core/animation/cubic_interpolator.dart';
+import 'package:rive_custom/src/rive_core/animation/interpolator.dart';
 
-export 'package:rive/src/generated/animation/cubic_value_interpolator_base.dart';
+export 'package:rive_custom/src/generated/animation/cubic_value_interpolator_base.dart';
 
 class _CubicValue {
   final InterpolatorCubicFactor _x;

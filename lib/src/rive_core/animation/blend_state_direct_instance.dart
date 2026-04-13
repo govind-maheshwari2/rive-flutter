@@ -1,7 +1,7 @@
-import 'package:rive/src/rive_core/animation/blend_animation_direct.dart';
-import 'package:rive/src/rive_core/animation/blend_state_direct.dart';
-import 'package:rive/src/rive_core/animation/blend_state_instance.dart';
-import 'package:rive/src/rive_core/state_machine_controller.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_animation_direct.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_state_direct.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_state_instance.dart';
+import 'package:rive_custom/src/rive_core/state_machine_controller.dart';
 
 /// [BlendStateDirect] mixing logic that runs inside the [StateMachine].
 class BlendStateDirectInstance

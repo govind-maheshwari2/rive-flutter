@@ -1,7 +1,7 @@
 /// Core automatically generated lib/src/generated/shapes/forced_edge_base.dart.
 /// Do not modify manually.
 
-import 'package:rive/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
 
 abstract class ForcedEdgeBase extends Component {
   static const int typeKey = 112;

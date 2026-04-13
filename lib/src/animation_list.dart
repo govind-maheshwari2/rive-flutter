@@ -1,5 +1,5 @@
 import 'dart:collection';
-import 'package:rive/src/rive_core/animation/animation.dart';
+import 'package:rive_custom/src/rive_core/animation/animation.dart';
 
 class AnimationList extends ListBase<Animation> {
   // Lame way to do this due to how ListBase needs to expand a nullable list.

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 
 /// Basic example playing a Rive animation from a packaged asset.
 class BasicText extends StatelessWidget {

@@ -1,7 +1,7 @@
 // Core automatically generated lib/src/generated/assets/folder_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/rive_core/assets/asset.dart';
+import 'package:rive_custom/src/rive_core/assets/asset.dart';
 
 abstract class FolderBase extends Asset {
   static const int typeKey = 102;

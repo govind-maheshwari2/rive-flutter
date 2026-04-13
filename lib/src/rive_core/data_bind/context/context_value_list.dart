@@ -1,6 +1,6 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/data_bind/context/context_value.dart';
-import 'package:rive/src/rive_core/viewmodel/viewmodel_instance_value.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/data_bind/context/context_value.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_instance_value.dart';
 
 class ContextValueList extends ContextValue {
   ContextValueList(ViewModelInstanceValue? source) : super(source);

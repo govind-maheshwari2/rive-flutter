@@ -1,8 +1,8 @@
-import 'package:rive/src/asset_loader.dart';
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/debug.dart';
-import 'package:rive/src/rive_core/assets/file_asset.dart';
-import 'package:rive/src/rive_core/assets/file_asset_contents.dart';
+import 'package:rive_custom/src/asset_loader.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/debug.dart';
+import 'package:rive_custom/src/rive_core/assets/file_asset.dart';
+import 'package:rive_custom/src/rive_core/assets/file_asset_contents.dart';
 
 class FileAssetImporter extends ImportStackObject {
   final FileAssetLoader? assetLoader;

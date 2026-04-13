@@ -2,8 +2,8 @@
 // lib/src/generated/animation/blend_state_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/generated/animation/state_machine_layer_component_base.dart';
-import 'package:rive/src/rive_core/animation/layer_state.dart';
+import 'package:rive_custom/src/generated/animation/state_machine_layer_component_base.dart';
+import 'package:rive_custom/src/rive_core/animation/layer_state.dart';
 
 abstract class BlendStateBase extends LayerState {
   static const int typeKey = 72;

@@ -2,7 +2,7 @@
 /// lib/src/generated/shapes/path_composer_base.dart.
 /// Do not modify manually.
 
-import 'package:rive/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
 
 abstract class PathComposerBase extends Component {
   static const int typeKey = 9;

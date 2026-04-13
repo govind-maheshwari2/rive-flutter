@@ -2,12 +2,12 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
-import 'package:rive/src/controllers/state_machine_controller.dart';
-import 'package:rive/src/rive_core/artboard.dart';
-import 'package:rive/src/rive_core/state_machine_controller.dart'
+import 'package:rive_custom/src/controllers/state_machine_controller.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/rive_core/state_machine_controller.dart'
     show HitResult;
-import 'package:rive/src/rive_render_box.dart';
-import 'package:rive/src/runtime_artboard.dart';
+import 'package:rive_custom/src/rive_render_box.dart';
+import 'package:rive_custom/src/runtime_artboard.dart';
 import 'package:rive_common/math.dart';
 
 /// How to behave during hit tests on Rive Listeners (hit targets).

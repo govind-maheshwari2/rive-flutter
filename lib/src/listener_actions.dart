@@ -1,6 +1,6 @@
 import 'dart:collection';
 
-import 'package:rive/src/rive_core/animation/listener_action.dart';
+import 'package:rive_custom/src/rive_core/animation/listener_action.dart';
 
 class ListenerActions extends ListBase<ListenerAction> {
   final List<ListenerAction?> _values = [];

@@ -2,9 +2,9 @@
 // lib/src/generated/animation/keyframe_double_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/keyframe_base.dart';
-import 'package:rive/src/rive_core/animation/interpolating_keyframe.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/keyframe_base.dart';
+import 'package:rive_custom/src/rive_core/animation/interpolating_keyframe.dart';
 
 abstract class KeyFrameDoubleBase extends InterpolatingKeyFrame {
   static const int typeKey = 30;

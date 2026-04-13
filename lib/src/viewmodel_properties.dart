@@ -1,6 +1,6 @@
 import 'dart:collection';
 
-import 'package:rive/src/rive_core/viewmodel/viewmodel_property.dart';
+import 'package:rive_custom/src/rive_core/viewmodel/viewmodel_property.dart';
 
 class ViewModelProperties<T extends ViewModelProperty> extends ListBase<T> {
   final List<T?> _values = [];

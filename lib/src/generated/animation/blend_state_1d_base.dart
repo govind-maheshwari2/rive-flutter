@@ -2,11 +2,11 @@
 // lib/src/generated/animation/blend_state_1d_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/layer_state_base.dart';
-import 'package:rive/src/generated/animation/state_machine_layer_component_base.dart';
-import 'package:rive/src/rive_core/animation/blend_animation_1d.dart';
-import 'package:rive/src/rive_core/animation/blend_state.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/layer_state_base.dart';
+import 'package:rive_custom/src/generated/animation/state_machine_layer_component_base.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_animation_1d.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_state.dart';
 
 abstract class BlendState1DBase extends BlendState<BlendAnimation1D> {
   static const int typeKey = 76;

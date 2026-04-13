@@ -1,8 +1,8 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/backboard_base.dart';
-import 'package:rive/src/rive_core/assets/asset.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/backboard_base.dart';
+import 'package:rive_custom/src/rive_core/assets/asset.dart';
 
-export 'package:rive/src/generated/backboard_base.dart';
+export 'package:rive_custom/src/generated/backboard_base.dart';
 
 class Backboard extends BackboardBase {
   static final Backboard unknown = Backboard();

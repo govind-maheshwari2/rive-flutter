@@ -1,10 +1,10 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/blend_animation_base.dart';
-import 'package:rive/src/rive_core/animation/layer_state.dart';
-import 'package:rive/src/rive_core/animation/linear_animation.dart';
-import 'package:rive/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/blend_animation_base.dart';
+import 'package:rive_custom/src/rive_core/animation/layer_state.dart';
+import 'package:rive_custom/src/rive_core/animation/linear_animation.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
 
-export 'package:rive/src/generated/animation/blend_animation_base.dart';
+export 'package:rive_custom/src/generated/animation/blend_animation_base.dart';
 
 abstract class BlendAnimation extends BlendAnimationBase {
   LinearAnimation? _animation;

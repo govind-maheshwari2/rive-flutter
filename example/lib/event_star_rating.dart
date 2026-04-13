@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 
 /// This example demonstrates how to retrieve custom properties set on a Rive
 /// event, and update the UI accordingly.

@@ -1,10 +1,10 @@
 // Core automatically generated lib/src/generated/audio_event_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/component_base.dart';
-import 'package:rive/src/generated/container_component_base.dart';
-import 'package:rive/src/rive_core/event.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/component_base.dart';
+import 'package:rive_custom/src/generated/container_component_base.dart';
+import 'package:rive_custom/src/rive_core/event.dart';
 
 abstract class AudioEventBase extends Event {
   static const int typeKey = 407;

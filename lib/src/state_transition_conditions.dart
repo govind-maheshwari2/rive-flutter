@@ -1,5 +1,5 @@
 import 'dart:collection';
-import 'package:rive/src/rive_core/animation/transition_condition.dart';
+import 'package:rive_custom/src/rive_core/animation/transition_condition.dart';
 
 class StateTransitionConditions extends ListBase<TransitionCondition> {
   final List<TransitionCondition?> _values = [];

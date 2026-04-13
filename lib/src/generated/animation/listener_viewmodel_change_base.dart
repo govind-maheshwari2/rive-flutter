@@ -2,7 +2,7 @@
 // lib/src/generated/animation/listener_viewmodel_change_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/rive_core/animation/listener_action.dart';
+import 'package:rive_custom/src/rive_core/animation/listener_action.dart';
 
 abstract class ListenerViewModelChangeBase extends ListenerAction {
   static const int typeKey = 487;

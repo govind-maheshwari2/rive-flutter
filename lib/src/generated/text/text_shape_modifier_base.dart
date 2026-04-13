@@ -2,8 +2,8 @@
 // lib/src/generated/text/text_shape_modifier_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/generated/component_base.dart';
-import 'package:rive/src/rive_core/text/text_modifier.dart';
+import 'package:rive_custom/src/generated/component_base.dart';
+import 'package:rive_custom/src/rive_core/text/text_modifier.dart';
 
 abstract class TextShapeModifierBase extends TextModifier {
   static const int typeKey = 161;

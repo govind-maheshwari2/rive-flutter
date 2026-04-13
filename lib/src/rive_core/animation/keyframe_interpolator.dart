@@ -1,9 +1,9 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/keyframe_interpolator_base.dart';
-import 'package:rive/src/rive_core/animation/interpolator.dart';
-import 'package:rive/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/keyframe_interpolator_base.dart';
+import 'package:rive_custom/src/rive_core/animation/interpolator.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
 
-export 'package:rive/src/generated/animation/keyframe_interpolator_base.dart';
+export 'package:rive_custom/src/generated/animation/keyframe_interpolator_base.dart';
 
 abstract class KeyFrameInterpolator extends KeyFrameInterpolatorBase
     implements Interpolator {

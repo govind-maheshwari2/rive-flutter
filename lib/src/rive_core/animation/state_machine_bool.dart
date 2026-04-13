@@ -1,5 +1,5 @@
-import 'package:rive/src/generated/animation/state_machine_bool_base.dart';
-export 'package:rive/src/generated/animation/state_machine_bool_base.dart';
+import 'package:rive_custom/src/generated/animation/state_machine_bool_base.dart';
+export 'package:rive_custom/src/generated/animation/state_machine_bool_base.dart';
 
 class StateMachineBool extends StateMachineBoolBase {
   @override

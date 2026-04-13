@@ -1,8 +1,8 @@
 // ignore_for_file: deprecated_member_use_from_same_package
 
-import 'package:rive/src/rive_core/assets/file_asset.dart';
+import 'package:rive_custom/src/rive_core/assets/file_asset.dart';
 
-export 'package:rive/src/generated/artboard_base.dart';
+export 'package:rive_custom/src/generated/artboard_base.dart';
 
 const _deprecationExtensionMessage =
     '''This Extension is no longer maintained. Similar behaviour can

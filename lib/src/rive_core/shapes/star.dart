@@ -1,11 +1,11 @@
 import 'dart:math';
 
-import 'package:rive/src/generated/shapes/star_base.dart';
-import 'package:rive/src/rive_core/bones/weight.dart';
-import 'package:rive/src/rive_core/shapes/path_vertex.dart';
-import 'package:rive/src/rive_core/shapes/straight_vertex.dart';
+import 'package:rive_custom/src/generated/shapes/star_base.dart';
+import 'package:rive_custom/src/rive_core/bones/weight.dart';
+import 'package:rive_custom/src/rive_core/shapes/path_vertex.dart';
+import 'package:rive_custom/src/rive_core/shapes/straight_vertex.dart';
 
-export 'package:rive/src/generated/shapes/star_base.dart';
+export 'package:rive_custom/src/generated/shapes/star_base.dart';
 
 class Star extends StarBase {
   @override

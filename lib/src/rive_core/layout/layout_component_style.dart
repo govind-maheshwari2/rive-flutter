@@ -1,13 +1,13 @@
-import 'package:rive/src/generated/layout/layout_component_style_base.dart';
-import 'package:rive/src/rive_core/animation/keyframe_interpolation.dart';
-import 'package:rive/src/rive_core/animation/keyframe_interpolator.dart';
-import 'package:rive/src/rive_core/container_component.dart';
-import 'package:rive/src/rive_core/enum_helper.dart';
-import 'package:rive/src/rive_core/notifier.dart';
+import 'package:rive_custom/src/generated/layout/layout_component_style_base.dart';
+import 'package:rive_custom/src/rive_core/animation/keyframe_interpolation.dart';
+import 'package:rive_custom/src/rive_core/animation/keyframe_interpolator.dart';
+import 'package:rive_custom/src/rive_core/container_component.dart';
+import 'package:rive_custom/src/rive_core/enum_helper.dart';
+import 'package:rive_custom/src/rive_core/notifier.dart';
 import 'package:rive_common/layout_engine.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/layout/layout_component_style_base.dart';
+export 'package:rive_custom/src/generated/layout/layout_component_style_base.dart';
 
 enum LayoutAlignmentType {
   topLeft,

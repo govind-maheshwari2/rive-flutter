@@ -2,7 +2,7 @@
 // lib/src/generated/viewmodel/data_enum_value_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
+import 'package:rive_custom/src/core/core.dart';
 
 abstract class DataEnumValueBase<T extends CoreContext> extends Core<T> {
   static const int typeKey = 445;

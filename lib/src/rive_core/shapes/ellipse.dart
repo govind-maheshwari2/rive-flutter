@@ -1,9 +1,9 @@
-import 'package:rive/src/generated/shapes/ellipse_base.dart';
-import 'package:rive/src/rive_core/shapes/cubic_detached_vertex.dart';
-import 'package:rive/src/rive_core/shapes/path_vertex.dart';
+import 'package:rive_custom/src/generated/shapes/ellipse_base.dart';
+import 'package:rive_custom/src/rive_core/shapes/cubic_detached_vertex.dart';
+import 'package:rive_custom/src/rive_core/shapes/path_vertex.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/shapes/ellipse_base.dart';
+export 'package:rive_custom/src/generated/shapes/ellipse_base.dart';
 
 class Ellipse extends EllipseBase {
   @override

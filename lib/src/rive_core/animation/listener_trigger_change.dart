@@ -1,11 +1,11 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/generated/animation/listener_trigger_change_base.dart';
-import 'package:rive/src/rive_core/animation/nested_trigger.dart';
-import 'package:rive/src/rive_core/animation/state_machine_trigger.dart';
-import 'package:rive/src/rive_core/state_machine_controller.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/generated/animation/listener_trigger_change_base.dart';
+import 'package:rive_custom/src/rive_core/animation/nested_trigger.dart';
+import 'package:rive_custom/src/rive_core/animation/state_machine_trigger.dart';
+import 'package:rive_custom/src/rive_core/state_machine_controller.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/animation/listener_trigger_change_base.dart';
+export 'package:rive_custom/src/generated/animation/listener_trigger_change_base.dart';
 
 class ListenerTriggerChange extends ListenerTriggerChangeBase {
   @override

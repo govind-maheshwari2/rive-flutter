@@ -1,9 +1,9 @@
 import 'package:flutter/rendering.dart';
-import 'package:rive/rive.dart';
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/nested_linear_animation.dart';
-import 'package:rive/src/rive_core/animation/nested_state_machine.dart';
-import 'package:rive/src/rive_core/state_machine_controller.dart'
+import 'package:rive_custom/rive.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/nested_linear_animation.dart';
+import 'package:rive_custom/src/rive_core/animation/nested_state_machine.dart';
+import 'package:rive_custom/src/rive_core/state_machine_controller.dart'
     as state_machine_core;
 import 'package:rive_common/math.dart';
 

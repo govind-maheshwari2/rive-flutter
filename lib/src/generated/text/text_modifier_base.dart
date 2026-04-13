@@ -1,7 +1,7 @@
 // Core automatically generated lib/src/generated/text/text_modifier_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/rive_core/component.dart';
+import 'package:rive_custom/src/rive_core/component.dart';
 
 abstract class TextModifierBase extends Component {
   static const int typeKey = 160;

@@ -2,7 +2,7 @@
 // lib/src/generated/viewmodel/viewmodel_instance_list_item_base.dart.
 // Do not modify manually.
 
-import 'package:rive/src/core/core.dart';
+import 'package:rive_custom/src/core/core.dart';
 
 abstract class ViewModelInstanceListItemBase<T extends CoreContext>
     extends Core<T> {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 
 /// Basic skinning example. The skinning states is set in the Rive editor and
 /// triggers are used to change the value.

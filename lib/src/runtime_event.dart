@@ -1,10 +1,10 @@
 import 'package:flutter/widgets.dart';
-import 'package:rive/src/rive_core/custom_property_boolean.dart';
-import 'package:rive/src/rive_core/custom_property_number.dart';
-import 'package:rive/src/rive_core/custom_property_string.dart';
-import 'package:rive/src/rive_core/event.dart';
-import 'package:rive/src/rive_core/open_url_event.dart';
-import 'package:rive/src/rive_core/open_url_target.dart';
+import 'package:rive_custom/src/rive_core/custom_property_boolean.dart';
+import 'package:rive_custom/src/rive_core/custom_property_number.dart';
+import 'package:rive_custom/src/rive_core/custom_property_string.dart';
+import 'package:rive_custom/src/rive_core/event.dart';
+import 'package:rive_custom/src/rive_core/open_url_event.dart';
+import 'package:rive_custom/src/rive_core/open_url_target.dart';
 
 /// A Rive Event that is reported from an StateMachineController.
 ///

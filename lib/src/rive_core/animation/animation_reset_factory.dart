@@ -1,12 +1,12 @@
-import 'package:rive/src/core/core.dart';
-import 'package:rive/src/rive_core/animation/animation_state.dart';
-import 'package:rive/src/rive_core/animation/blend_state.dart';
-import 'package:rive/src/rive_core/animation/keyed_object.dart';
-import 'package:rive/src/rive_core/animation/keyed_property.dart';
-import 'package:rive/src/rive_core/animation/keyframe_color.dart';
-import 'package:rive/src/rive_core/animation/keyframe_double.dart';
-import 'package:rive/src/rive_core/animation/linear_animation.dart';
-import 'package:rive/src/rive_core/animation/state_instance.dart';
+import 'package:rive_custom/src/core/core.dart';
+import 'package:rive_custom/src/rive_core/animation/animation_state.dart';
+import 'package:rive_custom/src/rive_core/animation/blend_state.dart';
+import 'package:rive_custom/src/rive_core/animation/keyed_object.dart';
+import 'package:rive_custom/src/rive_core/animation/keyed_property.dart';
+import 'package:rive_custom/src/rive_core/animation/keyframe_color.dart';
+import 'package:rive_custom/src/rive_core/animation/keyframe_double.dart';
+import 'package:rive_custom/src/rive_core/animation/linear_animation.dart';
+import 'package:rive_custom/src/rive_core/animation/state_instance.dart';
 import 'package:rive_common/utilities.dart';
 
 bool _isDouble(int propertyKey, Core object) {

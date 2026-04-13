@@ -1,7 +1,7 @@
-import 'package:rive/src/generated/viewmodel/viewmodel_instance_value_base.dart';
-import 'package:rive/src/rive_core/artboard.dart';
-import 'package:rive/src/rive_core/data_bind/data_bind_context.dart';
-import 'package:rive/src/rive_core/dependency_helper.dart';
+import 'package:rive_custom/src/generated/viewmodel/viewmodel_instance_value_base.dart';
+import 'package:rive_custom/src/rive_core/artboard.dart';
+import 'package:rive_custom/src/rive_core/data_bind/data_bind_context.dart';
+import 'package:rive_custom/src/rive_core/dependency_helper.dart';
 
 class ViewModelInstanceValue extends ViewModelInstanceValueBase {
   final DependencyHelper<Artboard, DataBindContextInterface> _dependencyHelper =

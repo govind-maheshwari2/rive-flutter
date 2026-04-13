@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
-import 'package:rive/rive.dart';
+import 'package:rive_custom/rive.dart';
 
 import 'mocks/mocks.dart';
 import 'src/network.dart';

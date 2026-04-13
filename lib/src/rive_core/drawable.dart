@@ -1,14 +1,14 @@
 import 'dart:ui';
 
-import 'package:rive/src/generated/drawable_base.dart';
-import 'package:rive/src/rive_core/component_dirt.dart';
-import 'package:rive/src/rive_core/component_flags.dart';
-import 'package:rive/src/rive_core/container_component.dart';
-import 'package:rive/src/rive_core/draw_rules.dart';
-import 'package:rive/src/rive_core/shapes/clipping_shape.dart';
-import 'package:rive/src/rive_core/transform_component.dart';
+import 'package:rive_custom/src/generated/drawable_base.dart';
+import 'package:rive_custom/src/rive_core/component_dirt.dart';
+import 'package:rive_custom/src/rive_core/component_flags.dart';
+import 'package:rive_custom/src/rive_core/container_component.dart';
+import 'package:rive_custom/src/rive_core/draw_rules.dart';
+import 'package:rive_custom/src/rive_core/shapes/clipping_shape.dart';
+import 'package:rive_custom/src/rive_core/transform_component.dart';
 
-export 'package:rive/src/generated/drawable_base.dart';
+export 'package:rive_custom/src/generated/drawable_base.dart';
 
 abstract class Drawable extends DrawableBase {
   /// Flattened rules inherited from parents (or self) so we don't have to look

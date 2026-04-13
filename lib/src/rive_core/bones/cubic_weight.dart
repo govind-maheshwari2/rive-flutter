@@ -1,7 +1,7 @@
-import 'package:rive/src/generated/bones/cubic_weight_base.dart';
+import 'package:rive_custom/src/generated/bones/cubic_weight_base.dart';
 import 'package:rive_common/math.dart';
 
-export 'package:rive/src/generated/bones/cubic_weight_base.dart';
+export 'package:rive_custom/src/generated/bones/cubic_weight_base.dart';
 
 class CubicWeight extends CubicWeightBase {
   final Vec2D inTranslation = Vec2D();

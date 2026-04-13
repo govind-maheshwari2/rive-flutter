@@ -1,8 +1,8 @@
-import 'package:rive/src/generated/animation/transition_value_color_comparator_base.dart';
-import 'package:rive/src/rive_core/animation/transition_comparator.dart';
-import 'package:rive/src/rive_core/animation/transition_condition.dart';
+import 'package:rive_custom/src/generated/animation/transition_value_color_comparator_base.dart';
+import 'package:rive_custom/src/rive_core/animation/transition_comparator.dart';
+import 'package:rive_custom/src/rive_core/animation/transition_condition.dart';
 
-export 'package:rive/src/generated/animation/transition_value_color_comparator_base.dart';
+export 'package:rive_custom/src/generated/animation/transition_value_color_comparator_base.dart';
 
 class TransitionValueColorComparator
     extends TransitionValueColorComparatorBase {

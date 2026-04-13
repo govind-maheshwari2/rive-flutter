@@ -1,9 +1,9 @@
 import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
-import 'package:rive/rive.dart';
-import 'package:rive/src/debug.dart';
-import 'package:rive/src/rive_core/assets/file_asset.dart';
-import 'package:rive/src/utilities/utilities.dart';
+import 'package:rive_custom/rive.dart';
+import 'package:rive_custom/src/debug.dart';
+import 'package:rive_custom/src/rive_core/assets/file_asset.dart';
+import 'package:rive_custom/src/utilities/utilities.dart';
 
 /// Base class for resolving out of band Rive assets, such as images and fonts.
 ///
